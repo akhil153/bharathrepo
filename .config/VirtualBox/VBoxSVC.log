@@ -1,0 +1,48 @@
+00:00:00.000392 main     VirtualBox XPCOM Server 6.1.38_Ubuntu r153438 linux.amd64 (Sep  7 2022 11:18:57) release log
+00:00:00.000394 main     Log opened 2022-11-17T06:13:26.693503000Z
+00:00:00.000394 main     Build Type: release
+00:00:00.000397 main     OS Product: Linux
+00:00:00.000398 main     OS Release: 5.15.0-53-generic
+00:00:00.000400 main     OS Version: #59~20.04.1-Ubuntu SMP Thu Oct 20 15:10:22 UTC 2022
+00:00:00.000419 main     DMI Product Name: 90DAZ2BGIN
+00:00:00.000427 main     DMI Product Version: ideacentre 300-20ISH
+00:00:00.000432 main     Firmware type: UEFI
+00:00:00.000670 main     Secure Boot: Disabled
+00:00:00.000702 main     Host RAM: 15910MB (15.5GB) total, 14706MB (14.3GB) available
+00:00:00.000704 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000705 main     Process ID: 8373
+00:00:00.000705 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.001731 main     IPC socket path: /tmp/.vbox-root-ipc/ipcd
+00:00:00.105957 nspr-2   VirtualBox: object creation starts
+00:00:00.106265 nspr-2   Home directory: '/root/.config/VirtualBox'
+00:00:00.126138 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.127512 nspr-2   HostDnsMonitor: initializing
+00:00:00.128120 nspr-2   NAT: resolv.conf: nameserver 127.0.0.53
+00:00:00.128159 nspr-2   NAT: resolv.conf: ignoring "options edns0"
+00:00:00.128191 nspr-2   HostDnsMonitor: updating information
+00:00:00.128249 nspr-2   HostDnsMonitor: old information
+00:00:00.128261 nspr-2     no server entries
+00:00:00.128272 nspr-2     no domain set
+00:00:00.128282 nspr-2     no search string entries
+00:00:00.128293 nspr-2   HostDnsMonitor: new information
+00:00:00.128303 nspr-2     server 1: 127.0.0.53
+00:00:00.128315 nspr-2     no domain set
+00:00:00.128325 nspr-2     no search string entries
+00:00:00.135558 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.135891 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.137503 nspr-2   VirtualBox: object created
+00:00:00.430088 ExtPackInst ExtPack: Executing '/usr/lib/virtualbox/VBoxExtPackHelperApp' 'install' '--base-dir' '/usr/lib/virtualbox/ExtensionPacks' '--cert-dir' '/usr/share/virtualbox/ExtPackCertificates' '--name' 'Oracle VM VirtualBox Extension Pack' '--tarball' '/usr/share/virtualbox-ext-pack/Oracle_VM_VirtualBox_Extension_Pack-6.1.38.vbox-extpack' '--sha-256' '052f26cf8c619b1aa0cad94c05ece0c1ae326248b4746c95e1deb0729ae4417a'
+00:00:03.384877 ExtPackInst ExtPack: enmReason=1 iStatus=0 stderr='rcExit=RTEXITCODE_SUCCESS
+00:00:03.384888 ExtPackInst '
+00:00:03.387985 ExtPackInst ExtPackManager: Found extension pack 'Oracle VM VirtualBox Extension Pack'.
+00:00:03.388910 ExtPackInst ExtPackManager: Successfully installed extension pack 'Oracle VM VirtualBox Extension Pack'.
+00:00:03.389288 ExtPackInst OCI: Local config file '/root/.config/VirtualBox/oci_config' does not exist
+00:00:03.389363 ExtPackInst OCI: Original config file '/root/.oci/config' does not exist
+00:00:03.389376 ExtPackInst OCI: Reading profiles finished with status NS_OK
+00:00:03.389393 ExtPackInst ExtPack: Created cloud provider 'OCI' (hrc=NS_OK)
+00:00:08.394923 main     VirtualBox: object deletion starts
+00:00:08.395498 main     HostDnsMonitor: shutting down ...
+00:00:08.412359 main     HostDnsMonitor: shut down
+00:00:08.640119 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:13.428386 main     {00007f0834017430} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:13.430269 main     VirtualBox: object deleted

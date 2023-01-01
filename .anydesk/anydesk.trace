@@ -1,0 +1,1451 @@
+   info 2022-11-23 04:40:14.409         ad   main   1148   1148                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-11-23 04:40:14.409         ad   main   1148   1148                                  main - * AnyDesk Linux Startup *
+   info 2022-11-23 04:40:14.409         ad   main   1148   1148                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-11-23 04:40:14.409         ad   main   1148   1148                                  main - * Build 20221102123558
+   info 2022-11-23 04:40:14.409         ad   main   1148   1148                                  main - * Prefix ad
+   info 2022-11-23 04:40:14.410         ad   main   1148   1148                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-11-23 04:40:14.410         ad   main   1148   1148                                  main - 
+   info 2022-11-23 04:40:14.410         ad   main   1148   1148                                  main - Distribution Info: Ubuntu 20.04 LTS
+   info 2022-11-23 04:40:14.410         ad   main   1148   1148                                  main - Found GLib Version: 2.64.
+warning 2022-11-23 04:40:14.420         ad   main   1148   1148                   fiber.ipc_namespace - Global namespace without service.
+warning 2022-11-23 04:40:14.420         ad   main   1148   1148                   fiber.ipc_namespace - Local namespace without service.
+   info 2022-11-23 04:40:14.420         ad   main   1148   1148                   fiber.ipc_namespace - Global: no
+   info 2022-11-23 04:40:14.421         ad   main   1148   1148                       app.common_path - user_data_dir = /root/.anydesk, logged_in_user_data_dir = /root/.anydesk, current_home = /root
+
+   info 2022-11-23 04:40:14.476         ad   main   1148   1148                       app.common_path - initialized user = /root/.anydesk, system = /root/.anydesk
+   info 2022-11-23 04:40:14.578         ad   main   1192   1192                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-11-23 04:40:14.578         ad   main   1192   1192                                  main - * AnyDesk Linux Startup *
+   info 2022-11-23 04:40:14.578         ad   main   1192   1192                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-11-23 04:40:14.578         ad   main   1192   1192                                  main - * Build 20221102123558
+   info 2022-11-23 04:40:14.578         ad   main   1192   1192                                  main - * Prefix ad
+   info 2022-11-23 04:40:14.578         ad   main   1192   1192                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-11-23 04:40:14.578         ad   main   1192   1192                                  main - 
+   info 2022-11-23 04:40:14.578         ad   main   1192   1192                                  main - Distribution Info: Ubuntu 20.04 LTS
+   info 2022-11-23 04:40:14.578         ad   main   1192   1192                                  main - Found GLib Version: 2.64.
+warning 2022-11-23 04:40:14.585         ad   main   1192   1192                   fiber.ipc_namespace - Global namespace without service.
+warning 2022-11-23 04:40:14.585         ad   main   1192   1192                   fiber.ipc_namespace - Local namespace without service.
+   info 2022-11-23 04:40:14.585         ad   main   1192   1192                   fiber.ipc_namespace - Global: no
+   info 2022-11-23 04:40:14.586         ad   main   1192   1192                       app.common_path - user_data_dir = /root/.anydesk, logged_in_user_data_dir = /root/.anydesk, current_home = /root
+
+   info 2022-11-23 04:40:14.586         ad   main   1192   1192                       app.common_path - initialized user = /root/.anydesk, system = /root/.anydesk
+   info 2022-11-23 04:40:14.586         ad   main   1192   1192                       app.common_path - user_data_dir = /root/.anydesk, logged_in_user_data_dir = /root/.anydesk, current_home = /root
+
+   info 2022-11-23 04:40:14.586         ad   main   1192   1192                       app.common_path - initialized user = /root/.anydesk, system = /root/.anydesk
+   info 2022-11-23 04:40:14.586  local_svc   main   1192   1192                                  main - Starting local service process (1192).
+   info 2022-11-23 04:40:14.588  local_svc   main   1192   1192            permission_profile_manager - Migrating V0 -> V1
+   info 2022-11-23 04:40:15.014  local_svc   main   1192   1192                       fiber.scheduler - Spawning root fiber 1.
+   info 2022-11-23 04:40:15.014  local_svc   main   1192   1192                       fiber.scheduler - Scheduler started.
+   info 2022-11-23 04:40:15.066  local_svc   main   1192   1192    1                      app.service - Opening the IPC namespace.
+   info 2022-11-23 04:40:15.067  local_svc   main   1192   1192    1              fiber.ipc_namespace - Global: no
+   info 2022-11-23 04:40:15.067  local_svc   main   1192   1192    1                      app.service - Logging into the IPC namespace.
+   info 2022-11-23 04:40:15.068  local_svc   main   1192   1192    1                      app.service - Starting to supervise the IPC namespace.
+   info 2022-11-23 04:40:15.069  local_svc   main   1192   1192    1                      app.service - Starting the connector.
+explode 2022-11-23 04:40:15.189       tray   main   1148   1148                   unix_base.x11_tools - Cannot open display
+   info 2022-11-23 04:40:15.546  local_svc   main   1192   1192    1            anynet.connection_mgr - Generating a new certificate and key.
+   info 2022-11-23 04:40:15.738  local_svc   main   1192   1192    1            anynet.connection_mgr - 2 CA certificate(s) loaded.
+   info 2022-11-23 04:40:15.739  local_svc   main   1192   1192    1                  fiber.scheduler - Spawning root fiber 2.
+   info 2022-11-23 04:40:15.739  local_svc   main   1192   1192    1                  fiber.scheduler - Spawning root fiber 3.
+   info 2022-11-23 04:40:15.744  local_svc   main   1192   1192    1                  fiber.scheduler - Spawning root fiber 4.
+   info 2022-11-23 04:40:15.744  local_svc   main   1192   1192    1                      app.service - Setting up the listen sockets.
+   info 2022-11-23 04:40:15.752  local_svc   main   1192   1192    1                  fiber.scheduler - Spawning root fiber 5.
+   info 2022-11-23 04:40:15.752  local_svc   main   1192   1192    1                      app.service - Service startup completed.
+   info 2022-11-23 04:40:15.752  local_svc   main   1192   1192    1            app.discovery_manager - Updated Discovery settings: repeat interval (1000), repeat limit (10), buffer interval (5000), port range (3)
+   info 2022-11-23 04:40:15.752  local_svc   main   1192   1192    1            app.discovery_manager - Starting Discovery.
+   info 2022-11-23 04:40:15.754  local_svc   main   1192   1192    1                   ad.wol_service - Starting WOL service.
+   info 2022-11-23 04:40:15.754  local_svc   main   1192   1192    1                  fiber.scheduler - Spawning child fiber 6 (parent 1).
+   info 2022-11-23 04:40:15.784  local_svc   main   1192   1192    1                  fiber.scheduler - Spawning child fiber 7 (parent 1).
+   info 2022-11-23 04:40:15.784  local_svc   main   1192   1192    1                      app.service - Waiting for messages.
+   info 2022-11-23 04:40:15.784  local_svc   main   1192   1192    1                      app.service - Process start: 1148 (control:4294967295).
+warning 2022-11-23 04:40:15.785  local_svc   main   1192   1192                   fiber.ipc_namespace - Zombie process detected (1148). Fixing the state.
+   info 2022-11-23 04:40:17.071  local_svc   main   1192   1192    1                      app.service - Process stop: 1148.
+   info 2022-11-23 04:40:17.071  local_svc   main   1192   1192    2            anynet.connection_mgr - Starting connection manager fiber.
+   info 2022-11-23 04:40:17.071  local_svc   main   1192   1192    3           anynet.main_relay_conn - Starting main relay connection.
+   info 2022-11-23 04:40:17.097  local_svc   main   1192   1192    3                  fiber.scheduler - Spawning child fiber 8 (parent 3).
+   info 2022-11-23 04:40:17.097  local_svc   main   1192   1192    4              anynet.tcp_acceptor - Listening on TCP port 7070.
+   info 2022-11-23 04:40:17.098  local_svc   main   1192   1192    5                anynet.any_socket - Listen fiber started.
+   info 2022-11-23 04:40:17.098  local_svc   main   1192   1192    6                      anynet.conn - Request before connect. Queueing.
+   info 2022-11-23 04:40:17.115  local_svc   main   1192   1192    8           anynet.relay_connector - Relay connector started.
+   info 2022-11-23 04:40:17.116  local_svc   main   1192   1192    8           anynet.relay_connector - Start proxy search.
+warning 2022-11-23 04:40:17.116  local_svc   main   1192   1192    8                base.proxy_finder - Invalid system proxy configuration.
+   info 2022-11-23 04:40:17.116  local_svc   main   1192   1192    8           anynet.relay_connector - Connecting to relay boot.net.anydesk.com (1/1)
+   info 2022-11-23 04:40:17.116  local_svc   main   1192   1192    8           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2022-11-23 04:40:17.116  local_svc   main   1192   1192    8           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2022-11-23 04:40:17.116  local_svc   main   1192   1192    8           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2022-11-23 04:40:17.124  local_svc   main   1192   1192    8           anynet.relay_connector - Using IPv4: 195.181.174.167
+   info 2022-11-23 04:40:17.264  local_svc   main   1192   1192    8                  fiber.scheduler - Spawning root fiber 9.
+   info 2022-11-23 04:40:17.583  local_svc   main   1192   1192    8           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2022-11-23 04:40:17.584  local_svc   main   1192   1192    8                  fiber.scheduler - Spawning root fiber 10.
+   info 2022-11-23 04:40:18.079  local_svc   main   1192   1192    8                        handshake - Using protocol version 3.
+   info 2022-11-23 04:40:18.221  local_svc   main   1192   1192                       fiber.scheduler - Fiber 8 requested quit of fiber 10.
+   info 2022-11-23 04:40:18.249  local_svc   main   1192   1192   10                      fiber.fiber - Received quit.
+   info 2022-11-23 04:40:18.249  local_svc   main   1192   1192                       fiber.scheduler - Fiber 10 terminated.
+   info 2022-11-23 04:40:18.249  local_svc   main   1192   1192                       fiber.scheduler - Fiber 8 requested quit of fiber 9.
+   info 2022-11-23 04:40:18.249  local_svc   main   1192   1192    9                      fiber.fiber - Received quit.
+   info 2022-11-23 04:40:18.249  local_svc   main   1192   1192                       fiber.scheduler - Fiber 9 terminated.
+   info 2022-11-23 04:40:18.249  local_svc   main   1192   1192    8           anynet.relay_connector - Connection terminated: anynet_invalid_zone
+   info 2022-11-23 04:40:18.249  local_svc   main   1192   1192    8           anynet.relay_connector - Received a new server list (10 servers)
+   info 2022-11-23 04:40:18.250  local_svc   main   1192   1192    8           anynet.relay_connector - Connecting to relay relay-bcaadb4c.net.anydesk.com (1/10)
+   info 2022-11-23 04:40:18.250  local_svc   main   1192   1192    8           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2022-11-23 04:40:18.250  local_svc   main   1192   1192    8           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2022-11-23 04:40:18.250  local_svc   main   1192   1192    8           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2022-11-23 04:40:18.269  local_svc   main   1192   1192    8           anynet.relay_connector - Using IPv4: 5.9.71.93
+   info 2022-11-23 04:40:18.416  local_svc   main   1192   1192    8                  fiber.scheduler - Spawning root fiber 11.
+   info 2022-11-23 04:40:18.718  local_svc   main   1192   1192    8           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2022-11-23 04:40:18.719  local_svc   main   1192   1192    8                  fiber.scheduler - Spawning root fiber 12.
+   info 2022-11-23 04:40:18.719  local_svc   main   1192   1192    8                        handshake - Using protocol version 3.
+   info 2022-11-23 04:40:18.912  local_svc   main   1192   1192                       fiber.scheduler - Fiber 8 requested quit of fiber 12.
+   info 2022-11-23 04:40:18.912  local_svc   main   1192   1192   12                      fiber.fiber - Received quit.
+   info 2022-11-23 04:40:18.912  local_svc   main   1192   1192                       fiber.scheduler - Fiber 12 terminated.
+   info 2022-11-23 04:40:18.912  local_svc   main   1192   1192                       fiber.scheduler - Fiber 8 requested quit of fiber 11.
+   info 2022-11-23 04:40:18.912  local_svc   main   1192   1192   11                      fiber.fiber - Received quit.
+   info 2022-11-23 04:40:18.912  local_svc   main   1192   1192                       fiber.scheduler - Fiber 11 terminated.
+   info 2022-11-23 04:40:18.912  local_svc   main   1192   1192    8           anynet.relay_connector - Connection terminated: anynet_relay_full
+   info 2022-11-23 04:40:18.913  local_svc   main   1192   1192    8           anynet.relay_connector - Received a new server list (10 servers)
+   info 2022-11-23 04:40:18.913  local_svc   main   1192   1192    8           anynet.relay_connector - Connecting to relay relay-d517f808.net.anydesk.com (1/10)
+   info 2022-11-23 04:40:18.913  local_svc   main   1192   1192    8           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2022-11-23 04:40:18.913  local_svc   main   1192   1192    8           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2022-11-23 04:40:18.913  local_svc   main   1192   1192    8           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2022-11-23 04:40:18.935  local_svc   main   1192   1192    8           anynet.relay_connector - Using IPv4: 5.9.71.92
+   info 2022-11-23 04:40:19.081  local_svc   main   1192   1192    8                  fiber.scheduler - Spawning root fiber 13.
+   info 2022-11-23 04:40:19.381  local_svc   main   1192   1192    8           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2022-11-23 04:40:19.381  local_svc   main   1192   1192    8                  fiber.scheduler - Spawning root fiber 14.
+   info 2022-11-23 04:40:19.382  local_svc   main   1192   1192    8                        handshake - Using protocol version 3.
+   info 2022-11-23 04:40:19.586  local_svc   main   1192   1192    8           anynet.relay_connector - Connection established.
+   info 2022-11-23 04:40:19.586  local_svc   main   1192   1192    8           anynet.relay_connector - Relay connector stopped.
+   info 2022-11-23 04:40:19.586  local_svc   main   1192   1192                       fiber.scheduler - Fiber 8 terminated.
+   info 2022-11-23 04:40:19.588  local_svc   main   1192   1192    3           anynet.main_relay_conn - Network ID: main
+   info 2022-11-23 04:40:19.589  local_svc   main   1192   1192    3                anynet.relay_conn - External address: 122.169.132.147:38060.
+   info 2022-11-23 04:40:19.589  local_svc   main   1192   1192    3           anynet.main_relay_conn - Main relay ID: d517f808
+   info 2022-11-23 04:40:19.590  local_svc   main   1192   1192    3           anynet.main_relay_conn - Detected 2 new networks.
+   info 2022-11-23 04:40:19.591  local_svc   main   1192   1192    2            anynet.connection_mgr - Main relay connection established.
+   info 2022-11-23 04:40:19.591  local_svc   main   1192   1192    2            anynet.connection_mgr - New user data. Client-ID: 174795557.
+   info 2022-11-23 04:40:19.783  local_svc   main   1192   1192    1                    app.discovery - Starting.
+   info 2022-11-23 04:40:19.783  local_svc   main   1192   1192    1                  fiber.scheduler - Spawning root fiber 15.
+   info 2022-11-23 04:40:19.784  local_svc   main   1192   1192   15                    app.discovery - Current Discovery revision: 0
+   info 2022-11-23 04:40:19.784  local_svc   main   1192   1192   15                    app.discovery - Joined multicast group 239.255.102.18:50001.
+  error 2022-11-23 04:40:19.784  local_svc   main   1192   1192   15                anynet.udp_socket - bind failed (98, Address already in use)
+   info 2022-11-23 04:40:19.784  local_svc   main   1192   1192   15                    app.discovery - Bound to port: 50002
+   info 2022-11-23 04:40:19.784  local_svc   main   1192   1192   15                anynet.udp_socket - Multicast loop option set to 0
+   info 2022-11-23 04:40:19.796  local_svc   main   1192   1192   15                    app.discovery - Discovery fiber started.
+   info 2022-11-23 04:40:27.079  local_svc   main   1192   1192    1                      app.service - Initiating auto-shutdown.
+   info 2022-11-23 04:40:27.080  local_svc   main   1192   1192                       fiber.scheduler - Fiber 1 requested quit of fiber 6.
+   info 2022-11-23 04:40:27.080  local_svc   main   1192   1192                       fiber.scheduler - Fiber 6 terminated.
+   info 2022-11-23 04:40:27.080  local_svc   main   1192   1192                       fiber.scheduler - Fiber 1 requested quit of fiber 7.
+   info 2022-11-23 04:40:27.080  local_svc   main   1192   1192                       fiber.scheduler - Fiber 7 terminated.
+   info 2022-11-23 04:40:27.080  local_svc   main   1192   1192                       fiber.scheduler - Fiber 1 requested quit of fiber 5.
+   info 2022-11-23 04:40:27.080  local_svc   main   1192   1192    5                anynet.any_socket - Listen fiber stopped.
+   info 2022-11-23 04:40:27.080  local_svc   main   1192   1192                       fiber.scheduler - Fiber 5 terminated.
+   info 2022-11-23 04:40:27.080  local_svc   main   1192   1192    1            anynet.connection_mgr - Connection manager shutdown.
+   info 2022-11-23 04:40:27.080  local_svc   main   1192   1192                       fiber.scheduler - Fiber 1 requested quit of fiber 3.
+   info 2022-11-23 04:40:27.080  local_svc   main   1192   1192    3           anynet.main_relay_conn - Main relay connection closed.
+   info 2022-11-23 04:40:27.081  local_svc   main   1192   1192    3            anynet.connection_mgr - Forcing cleanup.
+   info 2022-11-23 04:40:27.081  local_svc   main   1192   1192                       fiber.scheduler - Fiber 3 requested quit of fiber 14.
+   info 2022-11-23 04:40:27.081  local_svc   main   1192   1192   14                      fiber.fiber - Received quit.
+   info 2022-11-23 04:40:27.081  local_svc   main   1192   1192                       fiber.scheduler - Fiber 14 terminated.
+   info 2022-11-23 04:40:27.081  local_svc   main   1192   1192    2            anynet.connection_mgr - Main relay connection failed (result_quit).
+   info 2022-11-23 04:40:27.081  local_svc   main   1192   1192                       fiber.scheduler - Fiber 3 requested quit of fiber 13.
+   info 2022-11-23 04:40:27.081  local_svc   main   1192   1192   13                      fiber.fiber - Received quit.
+   info 2022-11-23 04:40:27.082  local_svc   main   1192   1192                       fiber.scheduler - Fiber 13 terminated.
+   info 2022-11-23 04:40:27.082  local_svc   main   1192   1192                       fiber.scheduler - Fiber 3 terminated.
+   info 2022-11-23 04:40:27.082  local_svc   main   1192   1192                       fiber.scheduler - Fiber 1 requested quit of fiber 2.
+   info 2022-11-23 04:40:27.082  local_svc   main   1192   1192    2            anynet.connection_mgr - Connection manager fiber quit.
+   info 2022-11-23 04:40:27.082  local_svc   main   1192   1192                       fiber.scheduler - Fiber 2 terminated.
+   info 2022-11-23 04:40:27.082  local_svc   main   1192   1192                       fiber.scheduler - Fiber 1 requested quit of fiber 4.
+   info 2022-11-23 04:40:27.082  local_svc   main   1192   1192    4              anynet.tcp_acceptor - Received quit.
+   info 2022-11-25 04:48:23.561         ad   main 2124508 2124508                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-11-25 04:48:23.585         ad   main 2124508 2124508                                  main - * AnyDesk Linux Startup *
+   info 2022-11-25 04:48:23.585         ad   main 2124508 2124508                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-11-25 04:48:23.585         ad   main 2124508 2124508                                  main - * Build 20221102123558
+   info 2022-11-25 04:48:23.585         ad   main 2124508 2124508                                  main - * Prefix ad
+   info 2022-11-25 04:48:23.585         ad   main 2124508 2124508                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-11-25 04:48:23.585         ad   main 2124508 2124508                                  main - 
+   info 2022-11-25 04:48:23.585         ad   main 2124508 2124508                                  main - Distribution Info: Ubuntu 20.04 LTS
+   info 2022-11-25 04:48:23.585         ad   main 2124508 2124508                                  main - Found GLib Version: 2.64.
+   info 2022-11-25 04:48:23.636         ad   main 2124508 2124508                       app.common_path - user_data_dir = /home/bandaru/.anydesk, logged_in_user_data_dir = /home/bandaru/.anydesk, current_home = /home/bandaru
+
+   info 2022-11-25 04:48:23.662         ad   main 2124508 2124508                       app.common_path - initialized user = /home/bandaru/.anydesk, system = /etc/anydesk
+   info 2022-11-25 04:48:23.663         ad   main 2124508 2124508                       app.common_path - user_data_dir = /home/bandaru/.anydesk, logged_in_user_data_dir = /home/bandaru/.anydesk, current_home = /home/bandaru
+
+   info 2022-11-25 04:48:23.663         ad   main 2124508 2124508                       app.common_path - initialized user = /home/bandaru/.anydesk, system = /etc/anydesk
+   info 2022-11-25 04:48:23.663         ad   main 2124508 2124508                                  main - Starting global settings process (2124508).
+   info 2022-11-25 04:48:23.686 global_settings   main 2124508 2124508                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-11-25 04:48:23.686 global_settings   main 2124508 2124508                           gui.gui_app - Using std-resolution bitmaps.
+warning 2022-11-25 04:48:23.743 global_settings   main 2124508 2124508                          account_info - Could not read account info from config.
+   info 2022-11-25 04:48:23.743 global_settings   main 2124508 2124508                       base.signal.hub - 1 threads.
+   info 2022-11-25 04:48:23.954 global_settings   ctrl 2124508 2124512                   gui.global_settings - Global settings startup.
+   info 2022-11-25 04:48:23.954 global_settings   ctrl 2124508 2124512                   fiber.ipc_namespace - Global: yes
+  error 2022-11-25 04:48:23.983 global_settings   ctrl 2124508 2124512              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+   info 2022-11-25 04:48:24.576 global_settings   main 2124508 2124508                     one_time_password - Resetting 2FA key.
+   info 2022-11-25 04:48:29.989 global_settings   main 2124508 2124508                     one_time_password - Resetting 2FA key.
+   info 2022-11-25 04:48:43.002 global_settings   ctrl 2124508 2124512                   gui.global_settings - Global settings shutdown.
+   info 2022-11-25 04:48:43.002 global_settings   ctrl 2124508 2124512                       base.signal.hub - Control quit.
+   info 2022-11-25 04:48:44.014 global_settings   main 2124508 2124508              base.prot.job_dispatcher - 0 undelivered packets.
+   info 2022-11-25 04:48:44.016 global_settings   main 2124508 2124508                                  main - Exiting normally.
+   info 2022-11-28 06:02:36.054         ad   main   1301   1301                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-11-28 06:02:36.093         ad   main   1301   1301                                  main - * AnyDesk Linux Startup *
+   info 2022-11-28 06:02:36.093         ad   main   1301   1301                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-11-28 06:02:36.093         ad   main   1301   1301                                  main - * Build 20221102123558
+   info 2022-11-28 06:02:36.093         ad   main   1301   1301                                  main - * Prefix ad
+   info 2022-11-28 06:02:36.093         ad   main   1301   1301                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-11-28 06:02:36.093         ad   main   1301   1301                                  main - 
+   info 2022-11-28 06:02:36.093         ad   main   1301   1301                                  main - Distribution Info: Ubuntu 20.04 LTS
+   info 2022-11-28 06:02:36.093         ad   main   1301   1301                                  main - Found GLib Version: 2.64.
+warning 2022-11-28 06:02:36.130         ad   main   1301   1301                   fiber.ipc_namespace - Global namespace without service.
+warning 2022-11-28 06:02:36.131         ad   main   1301   1301                   fiber.ipc_namespace - Local namespace without service.
+   info 2022-11-28 06:02:36.131         ad   main   1301   1301                   fiber.ipc_namespace - Global: no
+   info 2022-11-28 06:02:36.133         ad   main   1301   1301                       app.common_path - user_data_dir = /var/lib/gdm3/.anydesk, logged_in_user_data_dir = /var/lib/gdm3/.anydesk, current_home = /var/lib/gdm3
+
+   info 2022-11-28 06:02:36.171         ad   main   1301   1301                       app.common_path - initialized user = /var/lib/gdm3/.anydesk, system = /var/lib/gdm3/.anydesk
+   info 2022-11-28 06:02:36.288         ad   main   1307   1307                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-11-28 06:02:36.288         ad   main   1307   1307                                  main - * AnyDesk Linux Startup *
+   info 2022-11-28 06:02:36.288         ad   main   1307   1307                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-11-28 06:02:36.288         ad   main   1307   1307                                  main - * Build 20221102123558
+   info 2022-11-28 06:02:36.288         ad   main   1307   1307                                  main - * Prefix ad
+   info 2022-11-28 06:02:36.288         ad   main   1307   1307                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-11-28 06:02:36.288         ad   main   1307   1307                                  main - 
+   info 2022-11-28 06:02:36.288         ad   main   1307   1307                                  main - Distribution Info: Ubuntu 20.04 LTS
+   info 2022-11-28 06:02:36.288         ad   main   1307   1307                                  main - Found GLib Version: 2.64.
+   info 2022-11-28 06:02:36.305         ad   main   1307   1307                       app.common_path - user_data_dir = /var/lib/gdm3/.anydesk, logged_in_user_data_dir = /var/lib/gdm3/.anydesk, current_home = /var/lib/gdm3
+
+   info 2022-11-28 06:02:36.305         ad   main   1307   1307                       app.common_path - initialized user = /var/lib/gdm3/.anydesk, system = /etc/anydesk
+   info 2022-11-28 06:02:36.311         ad   main   1307   1307             app.named_process_starter - Spawning new process with: UID: 125, DPY: , ID: c1, SEAT: 31704416
+warning 2022-11-28 06:02:36.312         ad   main   1314   1314             unix_base.x11.xauth_magic - XAUTHORITY is not set, trying the default location
+  error 2022-11-28 06:02:36.312         ad   main   1314   1314             unix_base.x11.xauth_magic - Cannot find Xauthority file despite all attempts, backend will probably fail
+   info 2022-11-28 06:02:36.316         ad   main   1307   1307                       app.common_path - user_data_dir = /var/lib/gdm3/.anydesk, logged_in_user_data_dir = /var/lib/gdm3/.anydesk, current_home = /var/lib/gdm3
+
+   info 2022-11-28 06:02:36.316         ad   main   1307   1307                       app.common_path - initialized user = /var/lib/gdm3/.anydesk, system = /etc/anydesk
+  error 2022-11-28 06:02:36.316         ad   main   1307   1307                                  main - Service is already running.
+   info 2022-11-28 06:02:36.316         ad   main   1307   1307                                  main - Exiting normally.
+explode 2022-11-28 06:02:38.122    control   main   1301   1301             app.named_process_starter - Unable to spawn service
+   info 2022-11-29 06:24:53.916         ad   main   1344   1344                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-11-29 06:24:53.998         ad   main   1344   1344                                  main - * AnyDesk Linux Startup *
+   info 2022-11-29 06:24:53.998         ad   main   1344   1344                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-11-29 06:24:53.998         ad   main   1344   1344                                  main - * Build 20221102123558
+   info 2022-11-29 06:24:53.998         ad   main   1344   1344                                  main - * Prefix ad
+   info 2022-11-29 06:24:53.999         ad   main   1344   1344                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-11-29 06:24:53.999         ad   main   1344   1344                                  main - 
+   info 2022-11-29 06:24:53.999         ad   main   1344   1344                                  main - Distribution Info: Ubuntu 20.04 LTS
+   info 2022-11-29 06:24:53.999         ad   main   1344   1344                                  main - Found GLib Version: 2.64.
+warning 2022-11-29 06:24:54.025         ad   main   1344   1344                   fiber.ipc_namespace - Global namespace without service.
+warning 2022-11-29 06:24:54.025         ad   main   1344   1344                   fiber.ipc_namespace - Local namespace without service.
+   info 2022-11-29 06:24:54.026         ad   main   1344   1344                   fiber.ipc_namespace - Global: no
+   info 2022-11-29 06:24:54.026         ad   main   1344   1344                       app.common_path - user_data_dir = /root/.anydesk, logged_in_user_data_dir = /root/.anydesk, current_home = /root
+
+   info 2022-11-29 06:24:54.049         ad   main   1344   1344                       app.common_path - initialized user = /root/.anydesk, system = /root/.anydesk
+   info 2022-11-29 06:24:54.161         ad   main   1373   1373                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-11-29 06:24:54.161         ad   main   1373   1373                                  main - * AnyDesk Linux Startup *
+   info 2022-11-29 06:24:54.161         ad   main   1373   1373                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-11-29 06:24:54.161         ad   main   1373   1373                                  main - * Build 20221102123558
+   info 2022-11-29 06:24:54.161         ad   main   1373   1373                                  main - * Prefix ad
+   info 2022-11-29 06:24:54.161         ad   main   1373   1373                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-11-29 06:24:54.161         ad   main   1373   1373                                  main - 
+   info 2022-11-29 06:24:54.161         ad   main   1373   1373                                  main - Distribution Info: Ubuntu 20.04 LTS
+   info 2022-11-29 06:24:54.161         ad   main   1373   1373                                  main - Found GLib Version: 2.64.
+warning 2022-11-29 06:24:54.168         ad   main   1373   1373                   fiber.ipc_namespace - Global namespace without service.
+warning 2022-11-29 06:24:54.168         ad   main   1373   1373                   fiber.ipc_namespace - Local namespace without service.
+   info 2022-11-29 06:24:54.168         ad   main   1373   1373                   fiber.ipc_namespace - Global: no
+   info 2022-11-29 06:24:54.168         ad   main   1373   1373                       app.common_path - user_data_dir = /root/.anydesk, logged_in_user_data_dir = /root/.anydesk, current_home = /root
+
+   info 2022-11-29 06:24:54.168         ad   main   1373   1373                       app.common_path - initialized user = /root/.anydesk, system = /root/.anydesk
+   info 2022-11-29 06:24:54.169         ad   main   1373   1373                       app.common_path - user_data_dir = /root/.anydesk, logged_in_user_data_dir = /root/.anydesk, current_home = /root
+
+   info 2022-11-29 06:24:54.169         ad   main   1373   1373                       app.common_path - initialized user = /root/.anydesk, system = /root/.anydesk
+   info 2022-11-29 06:24:54.169  local_svc   main   1373   1373                                  main - Starting local service process (1373).
+   info 2022-11-29 06:24:54.282  local_svc   main   1373   1373                       fiber.scheduler - Spawning root fiber 1.
+   info 2022-11-29 06:24:54.283  local_svc   main   1373   1373                       fiber.scheduler - Scheduler started.
+   info 2022-11-29 06:24:54.304  local_svc   main   1373   1373    1                      app.service - Opening the IPC namespace.
+   info 2022-11-29 06:24:54.304  local_svc   main   1373   1373    1              fiber.ipc_namespace - Global: no
+   info 2022-11-29 06:24:54.304  local_svc   main   1373   1373    1                      app.service - Logging into the IPC namespace.
+   info 2022-11-29 06:24:54.306  local_svc   main   1373   1373    1                      app.service - Starting to supervise the IPC namespace.
+   info 2022-11-29 06:24:54.306  local_svc   main   1373   1373    1                      app.service - Starting the connector.
+   info 2022-11-29 06:24:54.356  local_svc   main   1373   1373    1            anynet.connection_mgr - Importing certificate and key.
+explode 2022-11-29 06:24:54.370       tray   main   1344   1344                   unix_base.x11_tools - Cannot open display
+   info 2022-11-29 06:24:54.379  local_svc   main   1373   1373    1            anynet.connection_mgr - 2 CA certificate(s) loaded.
+   info 2022-11-29 06:24:54.379  local_svc   main   1373   1373    1                  fiber.scheduler - Spawning root fiber 2.
+   info 2022-11-29 06:24:54.380  local_svc   main   1373   1373    1                  fiber.scheduler - Spawning root fiber 3.
+   info 2022-11-29 06:24:54.382  local_svc   main   1373   1373    1                  fiber.scheduler - Spawning root fiber 4.
+   info 2022-11-29 06:24:54.382  local_svc   main   1373   1373    1                      app.service - Setting up the listen sockets.
+   info 2022-11-29 06:24:54.450  local_svc   main   1373   1373    1                  fiber.scheduler - Spawning root fiber 5.
+   info 2022-11-29 06:24:54.450  local_svc   main   1373   1373    1                      app.service - Service startup completed.
+   info 2022-11-29 06:24:54.450  local_svc   main   1373   1373    1            app.discovery_manager - Updated Discovery settings: repeat interval (1000), repeat limit (10), buffer interval (5000), port range (3)
+   info 2022-11-29 06:24:54.450  local_svc   main   1373   1373    1            app.discovery_manager - Starting Discovery.
+   info 2022-11-29 06:24:54.452  local_svc   main   1373   1373    1                   ad.wol_service - Starting WOL service.
+   info 2022-11-29 06:24:54.452  local_svc   main   1373   1373    1                  fiber.scheduler - Spawning child fiber 6 (parent 1).
+   info 2022-11-29 06:24:54.452  local_svc   main   1373   1373    1               statistics_service - cid changed - resetting consents for the system.
+   info 2022-11-29 06:24:54.490  local_svc   main   1373   1373    1                  fiber.scheduler - Spawning child fiber 7 (parent 1).
+   info 2022-11-29 06:24:54.490  local_svc   main   1373   1373    1                      app.service - Waiting for messages.
+   info 2022-11-29 06:24:54.490  local_svc   main   1373   1373    1                      app.service - Process start: 1344 (control:4294967295).
+   info 2022-11-29 06:24:54.491  local_svc   main   1373   1373    2            anynet.connection_mgr - Starting connection manager fiber.
+   info 2022-11-29 06:24:54.491  local_svc   main   1373   1373    3           anynet.main_relay_conn - Starting main relay connection.
+   info 2022-11-29 06:24:54.503  local_svc   main   1373   1373    3                  fiber.scheduler - Spawning child fiber 8 (parent 3).
+   info 2022-11-29 06:24:54.503  local_svc   main   1373   1373    4              anynet.tcp_acceptor - Listening on TCP port 7070.
+   info 2022-11-29 06:24:54.503  local_svc   main   1373   1373    5                anynet.any_socket - Listen fiber started.
+   info 2022-11-29 06:24:54.504  local_svc   main   1373   1373    6                      anynet.conn - Request before connect. Queueing.
+   info 2022-11-29 06:24:54.506  local_svc   main   1373   1373    8           anynet.relay_connector - Relay connector started.
+   info 2022-11-29 06:24:54.506  local_svc   main   1373   1373    8           anynet.relay_connector - Start proxy search.
+warning 2022-11-29 06:24:54.506  local_svc   main   1373   1373    8                base.proxy_finder - Invalid system proxy configuration.
+   info 2022-11-29 06:24:54.506  local_svc   main   1373   1373    8           anynet.relay_connector - Connecting to relay relay-d517f808.net.anydesk.com (1/2)
+   info 2022-11-29 06:24:54.506  local_svc   main   1373   1373    8           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2022-11-29 06:24:54.506  local_svc   main   1373   1373    8           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2022-11-29 06:24:54.506  local_svc   main   1373   1373    8           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2022-11-29 06:24:54.534  local_svc   main   1373   1373    8           anynet.relay_connector - Using IPv4: 5.9.71.92
+   info 2022-11-29 06:24:54.701  local_svc   main   1373   1373    8                  fiber.scheduler - Spawning root fiber 9.
+   info 2022-11-29 06:24:55.101  local_svc   main   1373   1373    8           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2022-11-29 06:24:55.148  local_svc   main   1373   1373    8                  fiber.scheduler - Spawning root fiber 10.
+   info 2022-11-29 06:24:55.751  local_svc   main   1373   1373    8                        handshake - Using protocol version 3.
+   info 2022-11-29 06:24:55.966  local_svc   main   1373   1373                       fiber.scheduler - Fiber 8 requested quit of fiber 10.
+   info 2022-11-29 06:24:55.988  local_svc   main   1373   1373   10                      fiber.fiber - Received quit.
+   info 2022-11-29 06:24:55.988  local_svc   main   1373   1373                       fiber.scheduler - Fiber 10 terminated.
+   info 2022-11-29 06:24:55.988  local_svc   main   1373   1373                       fiber.scheduler - Fiber 8 requested quit of fiber 9.
+   info 2022-11-29 06:24:55.989  local_svc   main   1373   1373    9                      fiber.fiber - Received quit.
+   info 2022-11-29 06:24:55.989  local_svc   main   1373   1373                       fiber.scheduler - Fiber 9 terminated.
+   info 2022-11-29 06:24:55.989  local_svc   main   1373   1373    8           anynet.relay_connector - Connection terminated: anynet_relay_full
+   info 2022-11-29 06:24:55.989  local_svc   main   1373   1373    8           anynet.relay_connector - Received a new server list (10 servers)
+   info 2022-11-29 06:24:55.989  local_svc   main   1373   1373    8           anynet.relay_connector - Connecting to relay relay-56b6dc2d.net.anydesk.com (1/10)
+   info 2022-11-29 06:24:55.989  local_svc   main   1373   1373    8           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2022-11-29 06:24:55.989  local_svc   main   1373   1373    8           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2022-11-29 06:24:55.989  local_svc   main   1373   1373    8           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2022-11-29 06:24:55.000  local_svc   main   1373   1373    8           anynet.relay_connector - Using IPv4: 5.9.70.141
+   info 2022-11-29 06:24:56.150  local_svc   main   1373   1373    8                  fiber.scheduler - Spawning root fiber 11.
+warning 2022-11-29 06:24:56.307  local_svc   main   1373   1373                   fiber.ipc_namespace - Zombie process detected (1344). Fixing the state.
+   info 2022-11-29 06:24:58.309  local_svc   main   1373   1373    1                      app.service - Process stop: 1344.
+   info 2022-11-29 06:24:58.310  local_svc   main   1373   1373    8           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2022-11-29 06:24:58.310  local_svc   main   1373   1373    8                  fiber.scheduler - Spawning root fiber 12.
+   info 2022-11-29 06:24:58.310  local_svc   main   1373   1373    8                        handshake - Using protocol version 3.
+   info 2022-11-29 06:24:58.495  local_svc   main   1373   1373    8           anynet.relay_connector - Connection established.
+   info 2022-11-29 06:24:58.495  local_svc   main   1373   1373    8           anynet.relay_connector - Relay connector stopped.
+   info 2022-11-29 06:24:58.495  local_svc   main   1373   1373                       fiber.scheduler - Fiber 8 terminated.
+   info 2022-11-29 06:24:58.496  local_svc   main   1373   1373    3           anynet.main_relay_conn - Network ID: main
+   info 2022-11-29 06:24:58.496  local_svc   main   1373   1373    3                anynet.relay_conn - External address: 106.212.245.3:45490.
+   info 2022-11-29 06:24:58.497  local_svc   main   1373   1373    3           anynet.main_relay_conn - Main relay ID: 56b6dc2d
+   info 2022-11-29 06:24:58.497  local_svc   main   1373   1373    3           anynet.main_relay_conn - Detected 2 new networks.
+   info 2022-11-29 06:24:58.498  local_svc   main   1373   1373    2            anynet.connection_mgr - Main relay connection established.
+   info 2022-11-29 06:24:58.498  local_svc   main   1373   1373    2            anynet.connection_mgr - New user data. Client-ID: 174795557.
+   info 2022-11-29 06:24:58.715  local_svc   main   1373   1373    1                    app.discovery - Starting.
+   info 2022-11-29 06:24:58.715  local_svc   main   1373   1373    1                  fiber.scheduler - Spawning root fiber 13.
+   info 2022-11-29 06:24:58.716  local_svc   main   1373   1373   13                    app.discovery - Current Discovery revision: 0
+   info 2022-11-29 06:24:58.716  local_svc   main   1373   1373   13                    app.discovery - Joined multicast group 239.255.102.18:50001.
+  error 2022-11-29 06:24:58.716  local_svc   main   1373   1373   13                anynet.udp_socket - bind failed (98, Address already in use)
+   info 2022-11-29 06:24:58.716  local_svc   main   1373   1373   13                    app.discovery - Bound to port: 50002
+   info 2022-11-29 06:24:58.716  local_svc   main   1373   1373   13                anynet.udp_socket - Multicast loop option set to 0
+   info 2022-11-29 06:24:58.729  local_svc   main   1373   1373   13                    app.discovery - Discovery fiber started.
+   info 2022-11-29 06:25:08.327  local_svc   main   1373   1373    1                      app.service - Initiating auto-shutdown.
+   info 2022-11-29 06:25:08.328  local_svc   main   1373   1373                       fiber.scheduler - Fiber 1 requested quit of fiber 6.
+   info 2022-11-29 06:25:08.328  local_svc   main   1373   1373                       fiber.scheduler - Fiber 6 terminated.
+   info 2022-11-29 06:25:08.328  local_svc   main   1373   1373                       fiber.scheduler - Fiber 1 requested quit of fiber 7.
+   info 2022-11-29 06:25:08.328  local_svc   main   1373   1373                       fiber.scheduler - Fiber 7 terminated.
+   info 2022-11-29 06:25:08.328  local_svc   main   1373   1373                       fiber.scheduler - Fiber 1 requested quit of fiber 5.
+   info 2022-11-29 06:25:08.328  local_svc   main   1373   1373    5                anynet.any_socket - Listen fiber stopped.
+   info 2022-11-29 06:25:08.328  local_svc   main   1373   1373                       fiber.scheduler - Fiber 5 terminated.
+   info 2022-11-29 06:25:08.328  local_svc   main   1373   1373    1            anynet.connection_mgr - Connection manager shutdown.
+   info 2022-11-29 06:25:08.328  local_svc   main   1373   1373                       fiber.scheduler - Fiber 1 requested quit of fiber 3.
+   info 2022-11-29 06:25:08.328  local_svc   main   1373   1373    3           anynet.main_relay_conn - Main relay connection closed.
+   info 2022-11-29 06:25:08.329  local_svc   main   1373   1373    3            anynet.connection_mgr - Forcing cleanup.
+   info 2022-11-29 06:25:08.329  local_svc   main   1373   1373                       fiber.scheduler - Fiber 3 requested quit of fiber 12.
+   info 2022-11-29 06:25:08.329  local_svc   main   1373   1373   12                      fiber.fiber - Received quit.
+   info 2022-11-29 06:25:08.329  local_svc   main   1373   1373                       fiber.scheduler - Fiber 12 terminated.
+   info 2022-11-29 06:25:08.329  local_svc   main   1373   1373    2            anynet.connection_mgr - Main relay connection failed (result_quit).
+   info 2022-11-29 06:25:08.329  local_svc   main   1373   1373                       fiber.scheduler - Fiber 3 requested quit of fiber 11.
+   info 2022-11-29 06:25:08.329  local_svc   main   1373   1373   11                      fiber.fiber - Received quit.
+   info 2022-11-29 06:25:08.329  local_svc   main   1373   1373                       fiber.scheduler - Fiber 11 terminated.
+   info 2022-11-29 06:25:08.330  local_svc   main   1373   1373                       fiber.scheduler - Fiber 3 terminated.
+   info 2022-11-29 06:25:08.330  local_svc   main   1373   1373                       fiber.scheduler - Fiber 1 requested quit of fiber 2.
+   info 2022-11-29 06:25:08.330  local_svc   main   1373   1373    2            anynet.connection_mgr - Connection manager fiber quit.
+   info 2022-11-29 06:25:08.330  local_svc   main   1373   1373                       fiber.scheduler - Fiber 2 terminated.
+   info 2022-11-29 06:25:08.330  local_svc   main   1373   1373                       fiber.scheduler - Fiber 1 requested quit of fiber 4.
+   info 2022-11-29 06:25:08.330  local_svc   main   1373   1373    4              anynet.tcp_acceptor - Received quit.
+   info 2022-11-30 06:36:34.971         ad   main   1377   1377                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-11-30 06:36:35.040         ad   main   1377   1377                                  main - * AnyDesk Linux Startup *
+   info 2022-11-30 06:36:35.040         ad   main   1377   1377                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-11-30 06:36:35.040         ad   main   1377   1377                                  main - * Build 20221102123558
+   info 2022-11-30 06:36:35.041         ad   main   1377   1377                                  main - * Prefix ad
+   info 2022-11-30 06:36:35.041         ad   main   1377   1377                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-11-30 06:36:35.041         ad   main   1377   1377                                  main - 
+   info 2022-11-30 06:36:35.041         ad   main   1377   1377                                  main - Distribution Info: Ubuntu 20.04 LTS
+   info 2022-11-30 06:36:35.041         ad   main   1377   1377                                  main - Found GLib Version: 2.64.
+warning 2022-11-30 06:36:35.084         ad   main   1377   1377                   fiber.ipc_namespace - Global namespace without service.
+warning 2022-11-30 06:36:35.085         ad   main   1377   1377                   fiber.ipc_namespace - Local namespace without service.
+   info 2022-11-30 06:36:35.085         ad   main   1377   1377                   fiber.ipc_namespace - Global: no
+   info 2022-11-30 06:36:35.087         ad   main   1377   1377                       app.common_path - user_data_dir = /var/lib/gdm3/.anydesk, logged_in_user_data_dir = /var/lib/gdm3/.anydesk, current_home = /var/lib/gdm3
+
+   info 2022-11-30 06:36:35.129         ad   main   1377   1377                       app.common_path - initialized user = /var/lib/gdm3/.anydesk, system = /var/lib/gdm3/.anydesk
+   info 2022-11-30 06:36:35.255         ad   main   1383   1383                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-11-30 06:36:35.256         ad   main   1383   1383                                  main - * AnyDesk Linux Startup *
+   info 2022-11-30 06:36:35.256         ad   main   1383   1383                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-11-30 06:36:35.256         ad   main   1383   1383                                  main - * Build 20221102123558
+   info 2022-11-30 06:36:35.256         ad   main   1383   1383                                  main - * Prefix ad
+   info 2022-11-30 06:36:35.256         ad   main   1383   1383                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-11-30 06:36:35.256         ad   main   1383   1383                                  main - 
+   info 2022-11-30 06:36:35.256         ad   main   1383   1383                                  main - Distribution Info: Ubuntu 20.04 LTS
+   info 2022-11-30 06:36:35.256         ad   main   1383   1383                                  main - Found GLib Version: 2.64.
+warning 2022-11-30 06:36:35.271         ad   main   1383   1383                   fiber.ipc_namespace - Global namespace without service.
+warning 2022-11-30 06:36:35.271         ad   main   1383   1383                   fiber.ipc_namespace - Local namespace without service.
+   info 2022-11-30 06:36:35.271         ad   main   1383   1383                   fiber.ipc_namespace - Global: no
+   info 2022-11-30 06:36:35.273         ad   main   1383   1383                       app.common_path - user_data_dir = /var/lib/gdm3/.anydesk, logged_in_user_data_dir = /var/lib/gdm3/.anydesk, current_home = /var/lib/gdm3
+
+   info 2022-11-30 06:36:35.273         ad   main   1383   1383                       app.common_path - initialized user = /var/lib/gdm3/.anydesk, system = /var/lib/gdm3/.anydesk
+   info 2022-11-30 06:36:35.276         ad   main   1383   1383                       app.common_path - user_data_dir = /var/lib/gdm3/.anydesk, logged_in_user_data_dir = /var/lib/gdm3/.anydesk, current_home = /var/lib/gdm3
+
+   info 2022-11-30 06:36:35.276         ad   main   1383   1383                       app.common_path - initialized user = /var/lib/gdm3/.anydesk, system = /var/lib/gdm3/.anydesk
+   info 2022-11-30 06:36:35.276  local_svc   main   1383   1383                                  main - Starting local service process (1383).
+   info 2022-11-30 06:36:35.277  local_svc   main   1383   1383            permission_profile_manager - Migrating V0 -> V1
+   info 2022-11-30 06:36:35.575  local_svc   main   1383   1383                       fiber.scheduler - Spawning root fiber 1.
+   info 2022-11-30 06:36:35.575  local_svc   main   1383   1383                       fiber.scheduler - Scheduler started.
+   info 2022-11-30 06:36:35.576  local_svc   main   1383   1383    1                      app.service - Opening the IPC namespace.
+   info 2022-11-30 06:36:35.576  local_svc   main   1383   1383    1              fiber.ipc_namespace - Global: no
+   info 2022-11-30 06:36:35.576  local_svc   main   1383   1383    1                      app.service - Logging into the IPC namespace.
+   info 2022-11-30 06:36:35.585  local_svc   main   1383   1383    1                      app.service - Starting to supervise the IPC namespace.
+   info 2022-11-30 06:36:35.586  local_svc   main   1383   1383    1                      app.service - Starting the connector.
+   info 2022-11-30 06:36:35.623  local_svc   main   1383   1383    1            anynet.connection_mgr - Generating a new certificate and key.
+explode 2022-11-30 06:36:35.650       tray   main   1377   1377                   unix_base.x11_tools - Cannot open display
+   info 2022-11-30 06:36:35.899  local_svc   main   1383   1383    1            anynet.connection_mgr - 2 CA certificate(s) loaded.
+   info 2022-11-30 06:36:35.899  local_svc   main   1383   1383    1                  fiber.scheduler - Spawning root fiber 2.
+   info 2022-11-30 06:36:35.903  local_svc   main   1383   1383    1                  fiber.scheduler - Spawning root fiber 3.
+   info 2022-11-30 06:36:35.904  local_svc   main   1383   1383    1                  fiber.scheduler - Spawning root fiber 4.
+   info 2022-11-30 06:36:35.905  local_svc   main   1383   1383    1                      app.service - Setting up the listen sockets.
+   info 2022-11-30 06:36:35.921  local_svc   main   1383   1383    1                  fiber.scheduler - Spawning root fiber 5.
+   info 2022-11-30 06:36:35.922  local_svc   main   1383   1383    1                      app.service - Service startup completed.
+   info 2022-11-30 06:36:35.922  local_svc   main   1383   1383    1            app.discovery_manager - Updated Discovery settings: repeat interval (1000), repeat limit (10), buffer interval (5000), port range (3)
+   info 2022-11-30 06:36:35.922  local_svc   main   1383   1383    1            app.discovery_manager - Starting Discovery.
+   info 2022-11-30 06:36:35.933  local_svc   main   1383   1383    1                   ad.wol_service - Starting WOL service.
+   info 2022-11-30 06:36:35.933  local_svc   main   1383   1383    1                  fiber.scheduler - Spawning child fiber 6 (parent 1).
+   info 2022-11-30 06:36:35.987  local_svc   main   1383   1383    1                  fiber.scheduler - Spawning child fiber 7 (parent 1).
+   info 2022-11-30 06:36:35.987  local_svc   main   1383   1383    1                      app.service - Waiting for messages.
+   info 2022-11-30 06:36:35.987  local_svc   main   1383   1383    1                      app.service - Process start: 1377 (control:2389982853).
+warning 2022-11-30 06:36:35.988  local_svc   main   1383   1383                   fiber.ipc_namespace - Zombie process detected (1377). Fixing the state.
+   info 2022-11-30 06:36:37.588  local_svc   main   1383   1383    1                      app.service - Process stop: 1377.
+   info 2022-11-30 06:36:37.588  local_svc   main   1383   1383    2            anynet.connection_mgr - Starting connection manager fiber.
+   info 2022-11-30 06:36:37.588  local_svc   main   1383   1383    3           anynet.main_relay_conn - Starting main relay connection.
+   info 2022-11-30 06:36:37.616  local_svc   main   1383   1383    3                  fiber.scheduler - Spawning child fiber 8 (parent 3).
+   info 2022-11-30 06:36:37.616  local_svc   main   1383   1383    4              anynet.tcp_acceptor - Listening on TCP port 7070.
+   info 2022-11-30 06:36:37.616  local_svc   main   1383   1383    5                anynet.any_socket - Listen fiber started.
+   info 2022-11-30 06:36:37.617  local_svc   main   1383   1383    6                      anynet.conn - Request before connect. Queueing.
+   info 2022-11-30 06:36:37.619  local_svc   main   1383   1383    8           anynet.relay_connector - Relay connector started.
+   info 2022-11-30 06:36:37.619  local_svc   main   1383   1383    8           anynet.relay_connector - Start proxy search.
+warning 2022-11-30 06:36:37.619  local_svc   main   1383   1383    8                base.proxy_finder - Invalid system proxy configuration.
+   info 2022-11-30 06:36:37.619  local_svc   main   1383   1383    8           anynet.relay_connector - Connecting to relay boot.net.anydesk.com (1/1)
+   info 2022-11-30 06:36:37.619  local_svc   main   1383   1383    8           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2022-11-30 06:36:37.619  local_svc   main   1383   1383    8           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2022-11-30 06:36:37.619  local_svc   main   1383   1383    8           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2022-11-30 06:36:37.640  local_svc   main   1383   1383    8           anynet.relay_connector - Using IPv4: 88.198.34.103
+   info 2022-11-30 06:36:37.803  local_svc   main   1383   1383    8                  fiber.scheduler - Spawning root fiber 9.
+   info 2022-11-30 06:36:38.219  local_svc   main   1383   1383    8           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2022-11-30 06:36:38.219  local_svc   main   1383   1383    8                  fiber.scheduler - Spawning root fiber 10.
+   info 2022-11-30 06:36:38.799  local_svc   main   1383   1383    8                        handshake - Using protocol version 3.
+   info 2022-11-30 06:36:38.965  local_svc   main   1383   1383                       fiber.scheduler - Fiber 8 requested quit of fiber 10.
+   info 2022-11-30 06:36:38.985  local_svc   main   1383   1383   10                      fiber.fiber - Received quit.
+   info 2022-11-30 06:36:38.986  local_svc   main   1383   1383                       fiber.scheduler - Fiber 10 terminated.
+   info 2022-11-30 06:36:38.986  local_svc   main   1383   1383                       fiber.scheduler - Fiber 8 requested quit of fiber 9.
+   info 2022-11-30 06:36:38.986  local_svc   main   1383   1383    9                      fiber.fiber - Received quit.
+   info 2022-11-30 06:36:38.986  local_svc   main   1383   1383                       fiber.scheduler - Fiber 9 terminated.
+   info 2022-11-30 06:36:38.986  local_svc   main   1383   1383    8           anynet.relay_connector - Connection terminated: anynet_invalid_zone
+   info 2022-11-30 06:36:38.986  local_svc   main   1383   1383    8           anynet.relay_connector - Received a new server list (10 servers)
+   info 2022-11-30 06:36:38.986  local_svc   main   1383   1383    8           anynet.relay_connector - Connecting to relay relay-1379aa09.net.anydesk.com (1/10)
+   info 2022-11-30 06:36:38.986  local_svc   main   1383   1383    8           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2022-11-30 06:36:38.986  local_svc   main   1383   1383    8           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2022-11-30 06:36:38.986  local_svc   main   1383   1383    8           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2022-11-30 06:36:38.995  local_svc   main   1383   1383    8           anynet.relay_connector - Using IPv4: 138.199.14.81
+   info 2022-11-30 06:36:39.139  local_svc   main   1383   1383    8                  fiber.scheduler - Spawning root fiber 11.
+   info 2022-11-30 06:36:39.433  local_svc   main   1383   1383    8           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2022-11-30 06:36:39.433  local_svc   main   1383   1383    8                  fiber.scheduler - Spawning root fiber 12.
+   info 2022-11-30 06:36:39.433  local_svc   main   1383   1383    8                        handshake - Using protocol version 3.
+   info 2022-11-30 06:36:39.784  local_svc   main   1383   1383    8           anynet.relay_connector - Connection established.
+   info 2022-11-30 06:36:39.784  local_svc   main   1383   1383    8           anynet.relay_connector - Relay connector stopped.
+   info 2022-11-30 06:36:39.784  local_svc   main   1383   1383                       fiber.scheduler - Fiber 8 terminated.
+   info 2022-11-30 06:36:39.787  local_svc   main   1383   1383    3           anynet.main_relay_conn - Network ID: main
+   info 2022-11-30 06:36:39.788  local_svc   main   1383   1383    3                anynet.relay_conn - External address: 106.212.245.3:40160.
+   info 2022-11-30 06:36:39.788  local_svc   main   1383   1383    3           anynet.main_relay_conn - Main relay ID: 1379aa09
+   info 2022-11-30 06:36:39.789  local_svc   main   1383   1383    3           anynet.main_relay_conn - Detected 2 new networks.
+   info 2022-11-30 06:36:39.791  local_svc   main   1383   1383    2            anynet.connection_mgr - Main relay connection established.
+   info 2022-11-30 06:36:39.791  local_svc   main   1383   1383    2            anynet.connection_mgr - New user data. Client-ID: 459406716.
+   info 2022-11-30 06:36:40.016  local_svc   main   1383   1383    1                    app.discovery - Starting.
+   info 2022-11-30 06:36:40.017  local_svc   main   1383   1383    1                  fiber.scheduler - Spawning root fiber 13.
+   info 2022-11-30 06:36:40.017  local_svc   main   1383   1383   13                    app.discovery - Current Discovery revision: 0
+   info 2022-11-30 06:36:40.017  local_svc   main   1383   1383   13                    app.discovery - Joined multicast group 239.255.102.18:50001.
+  error 2022-11-30 06:36:40.017  local_svc   main   1383   1383   13                anynet.udp_socket - bind failed (98, Address already in use)
+   info 2022-11-30 06:36:40.018  local_svc   main   1383   1383   13                    app.discovery - Bound to port: 50002
+   info 2022-11-30 06:36:40.018  local_svc   main   1383   1383   13                anynet.udp_socket - Multicast loop option set to 0
+   info 2022-11-30 06:36:40.027  local_svc   main   1383   1383   13                    app.discovery - Discovery fiber started.
+   info 2022-11-30 06:36:47.596  local_svc   main   1383   1383    1                      app.service - Initiating auto-shutdown.
+   info 2022-11-30 06:36:47.597  local_svc   main   1383   1383                       fiber.scheduler - Fiber 1 requested quit of fiber 6.
+   info 2022-11-30 06:36:47.597  local_svc   main   1383   1383                       fiber.scheduler - Fiber 6 terminated.
+   info 2022-11-30 06:36:47.597  local_svc   main   1383   1383                       fiber.scheduler - Fiber 1 requested quit of fiber 7.
+   info 2022-11-30 06:36:47.597  local_svc   main   1383   1383                       fiber.scheduler - Fiber 7 terminated.
+   info 2022-11-30 06:36:47.597  local_svc   main   1383   1383                       fiber.scheduler - Fiber 1 requested quit of fiber 5.
+   info 2022-11-30 06:36:47.597  local_svc   main   1383   1383    5                anynet.any_socket - Listen fiber stopped.
+   info 2022-11-30 06:36:47.597  local_svc   main   1383   1383                       fiber.scheduler - Fiber 5 terminated.
+   info 2022-11-30 06:36:47.597  local_svc   main   1383   1383    1            anynet.connection_mgr - Connection manager shutdown.
+   info 2022-11-30 06:36:47.597  local_svc   main   1383   1383                       fiber.scheduler - Fiber 1 requested quit of fiber 3.
+   info 2022-11-30 06:36:47.597  local_svc   main   1383   1383    3           anynet.main_relay_conn - Main relay connection closed.
+   info 2022-11-30 06:36:47.692  local_svc   main   1383   1383    3            anynet.connection_mgr - Forcing cleanup.
+   info 2022-11-30 06:36:47.692  local_svc   main   1383   1383                       fiber.scheduler - Fiber 3 requested quit of fiber 12.
+   info 2022-11-30 06:36:47.692  local_svc   main   1383   1383   12                      fiber.fiber - Received quit.
+   info 2022-11-30 06:36:47.692  local_svc   main   1383   1383                       fiber.scheduler - Fiber 12 terminated.
+   info 2022-11-30 06:36:47.692  local_svc   main   1383   1383    2            anynet.connection_mgr - Main relay connection failed (result_quit).
+   info 2022-11-30 06:36:47.692  local_svc   main   1383   1383                       fiber.scheduler - Fiber 3 requested quit of fiber 11.
+   info 2022-11-30 06:36:47.693  local_svc   main   1383   1383   11                      fiber.fiber - Received quit.
+   info 2022-11-30 06:36:47.693  local_svc   main   1383   1383                       fiber.scheduler - Fiber 11 terminated.
+   info 2022-11-30 06:36:47.693  local_svc   main   1383   1383                       fiber.scheduler - Fiber 3 terminated.
+   info 2022-11-30 06:36:47.693  local_svc   main   1383   1383                       fiber.scheduler - Fiber 1 requested quit of fiber 2.
+   info 2022-11-30 06:36:47.693  local_svc   main   1383   1383    2            anynet.connection_mgr - Connection manager fiber quit.
+   info 2022-11-30 06:36:47.693  local_svc   main   1383   1383                       fiber.scheduler - Fiber 2 terminated.
+   info 2022-11-30 06:36:47.693  local_svc   main   1383   1383                       fiber.scheduler - Fiber 1 requested quit of fiber 4.
+   info 2022-11-30 06:36:47.693  local_svc   main   1383   1383    4              anynet.tcp_acceptor - Received quit.
+   info 2022-11-30 07:29:18.763         ad   main   1328   1328                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-11-30 07:29:18.850         ad   main   1328   1328                                  main - * AnyDesk Linux Startup *
+   info 2022-11-30 07:29:18.851         ad   main   1328   1328                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-11-30 07:29:18.851         ad   main   1328   1328                                  main - * Build 20221102123558
+   info 2022-11-30 07:29:18.851         ad   main   1328   1328                                  main - * Prefix ad
+   info 2022-11-30 07:29:18.851         ad   main   1328   1328                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-11-30 07:29:18.851         ad   main   1328   1328                                  main - 
+   info 2022-11-30 07:29:18.851         ad   main   1328   1328                                  main - Distribution Info: Ubuntu 20.04 LTS
+   info 2022-11-30 07:29:18.851         ad   main   1328   1328                                  main - Found GLib Version: 2.64.
+warning 2022-11-30 07:29:18.876         ad   main   1328   1328                   fiber.ipc_namespace - Global namespace without service.
+warning 2022-11-30 07:29:18.877         ad   main   1328   1328                   fiber.ipc_namespace - Local namespace without service.
+   info 2022-11-30 07:29:18.877         ad   main   1328   1328                   fiber.ipc_namespace - Global: no
+   info 2022-11-30 07:29:18.877         ad   main   1328   1328                       app.common_path - user_data_dir = /root/.anydesk, logged_in_user_data_dir = /root/.anydesk, current_home = /root
+
+   info 2022-11-30 07:29:19.009         ad   main   1328   1328                       app.common_path - initialized user = /root/.anydesk, system = /root/.anydesk
+   info 2022-11-30 07:29:19.141         ad   main   1336   1336                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-11-30 07:29:19.141         ad   main   1336   1336                                  main - * AnyDesk Linux Startup *
+   info 2022-11-30 07:29:19.141         ad   main   1336   1336                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-11-30 07:29:19.141         ad   main   1336   1336                                  main - * Build 20221102123558
+   info 2022-11-30 07:29:19.141         ad   main   1336   1336                                  main - * Prefix ad
+   info 2022-11-30 07:29:19.141         ad   main   1336   1336                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-11-30 07:29:19.141         ad   main   1336   1336                                  main - 
+   info 2022-11-30 07:29:19.141         ad   main   1336   1336                                  main - Distribution Info: Ubuntu 20.04 LTS
+   info 2022-11-30 07:29:19.141         ad   main   1336   1336                                  main - Found GLib Version: 2.64.
+warning 2022-11-30 07:29:19.148         ad   main   1336   1336                   fiber.ipc_namespace - Global namespace without service.
+warning 2022-11-30 07:29:19.148         ad   main   1336   1336                   fiber.ipc_namespace - Local namespace without service.
+   info 2022-11-30 07:29:19.148         ad   main   1336   1336                   fiber.ipc_namespace - Global: no
+   info 2022-11-30 07:29:19.149         ad   main   1336   1336                       app.common_path - user_data_dir = /root/.anydesk, logged_in_user_data_dir = /root/.anydesk, current_home = /root
+
+   info 2022-11-30 07:29:19.149         ad   main   1336   1336                       app.common_path - initialized user = /root/.anydesk, system = /root/.anydesk
+   info 2022-11-30 07:29:19.149         ad   main   1336   1336                       app.common_path - user_data_dir = /root/.anydesk, logged_in_user_data_dir = /root/.anydesk, current_home = /root
+
+   info 2022-11-30 07:29:19.149         ad   main   1336   1336                       app.common_path - initialized user = /root/.anydesk, system = /root/.anydesk
+   info 2022-11-30 07:29:19.149  local_svc   main   1336   1336                                  main - Starting local service process (1336).
+   info 2022-11-30 07:29:19.613  local_svc   main   1336   1336                       fiber.scheduler - Spawning root fiber 1.
+   info 2022-11-30 07:29:19.613  local_svc   main   1336   1336                       fiber.scheduler - Scheduler started.
+   info 2022-11-30 07:29:19.630  local_svc   main   1336   1336    1                      app.service - Opening the IPC namespace.
+   info 2022-11-30 07:29:19.630  local_svc   main   1336   1336    1              fiber.ipc_namespace - Global: no
+   info 2022-11-30 07:29:19.631  local_svc   main   1336   1336    1                      app.service - Logging into the IPC namespace.
+   info 2022-11-30 07:29:19.632  local_svc   main   1336   1336    1                      app.service - Starting to supervise the IPC namespace.
+   info 2022-11-30 07:29:19.633  local_svc   main   1336   1336    1                      app.service - Starting the connector.
+   info 2022-11-30 07:29:19.720  local_svc   main   1336   1336    1            anynet.connection_mgr - Importing certificate and key.
+explode 2022-11-30 07:29:19.788       tray   main   1328   1328                   unix_base.x11_tools - Cannot open display
+   info 2022-11-30 07:29:19.930  local_svc   main   1336   1336    1            anynet.connection_mgr - 2 CA certificate(s) loaded.
+   info 2022-11-30 07:29:19.930  local_svc   main   1336   1336    1                  fiber.scheduler - Spawning root fiber 2.
+   info 2022-11-30 07:29:20.118  local_svc   main   1336   1336    1                  fiber.scheduler - Spawning root fiber 3.
+   info 2022-11-30 07:29:20.126  local_svc   main   1336   1336    1                  fiber.scheduler - Spawning root fiber 4.
+   info 2022-11-30 07:29:20.126  local_svc   main   1336   1336    1                      app.service - Setting up the listen sockets.
+   info 2022-11-30 07:29:20.144  local_svc   main   1336   1336    1                  fiber.scheduler - Spawning root fiber 5.
+   info 2022-11-30 07:29:20.144  local_svc   main   1336   1336    1                      app.service - Service startup completed.
+   info 2022-11-30 07:29:20.144  local_svc   main   1336   1336    1            app.discovery_manager - Updated Discovery settings: repeat interval (1000), repeat limit (10), buffer interval (5000), port range (3)
+   info 2022-11-30 07:29:20.145  local_svc   main   1336   1336    1            app.discovery_manager - Starting Discovery.
+   info 2022-11-30 07:29:20.147  local_svc   main   1336   1336    1                   ad.wol_service - Starting WOL service.
+   info 2022-11-30 07:29:20.147  local_svc   main   1336   1336    1                  fiber.scheduler - Spawning child fiber 6 (parent 1).
+   info 2022-11-30 07:29:20.200  local_svc   main   1336   1336    1                  fiber.scheduler - Spawning child fiber 7 (parent 1).
+   info 2022-11-30 07:29:20.200  local_svc   main   1336   1336    1                      app.service - Waiting for messages.
+   info 2022-11-30 07:29:20.200  local_svc   main   1336   1336    1                      app.service - Process start: 1328 (control:4294967295).
+warning 2022-11-30 07:29:20.200  local_svc   main   1336   1336                   fiber.ipc_namespace - Zombie process detected (1328). Fixing the state.
+   info 2022-11-30 07:29:21.633  local_svc   main   1336   1336    1                      app.service - Process stop: 1328.
+   info 2022-11-30 07:29:21.634  local_svc   main   1336   1336    2            anynet.connection_mgr - Starting connection manager fiber.
+   info 2022-11-30 07:29:21.634  local_svc   main   1336   1336    3           anynet.main_relay_conn - Starting main relay connection.
+   info 2022-11-30 07:29:21.747  local_svc   main   1336   1336    3                  fiber.scheduler - Spawning child fiber 8 (parent 3).
+   info 2022-11-30 07:29:21.747  local_svc   main   1336   1336    4              anynet.tcp_acceptor - Listening on TCP port 7070.
+   info 2022-11-30 07:29:21.747  local_svc   main   1336   1336    5                anynet.any_socket - Listen fiber started.
+   info 2022-11-30 07:29:21.879  local_svc   main   1336   1336    8           anynet.relay_connector - Relay connector started.
+   info 2022-11-30 07:29:21.879  local_svc   main   1336   1336    8           anynet.relay_connector - Start proxy search.
+warning 2022-11-30 07:29:21.879  local_svc   main   1336   1336    8                base.proxy_finder - Invalid system proxy configuration.
+   info 2022-11-30 07:29:21.879  local_svc   main   1336   1336    8           anynet.relay_connector - Connecting to relay relay-56b6dc2d.net.anydesk.com (1/2)
+   info 2022-11-30 07:29:21.879  local_svc   main   1336   1336    8           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2022-11-30 07:29:21.879  local_svc   main   1336   1336    8           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2022-11-30 07:29:21.879  local_svc   main   1336   1336    8           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2022-11-30 07:29:21.886  local_svc   main   1336   1336    8           anynet.relay_connector - Using IPv4: 5.9.70.141
+   info 2022-11-30 07:29:22.049  local_svc   main   1336   1336    8                  fiber.scheduler - Spawning root fiber 9.
+   info 2022-11-30 07:29:22.461  local_svc   main   1336   1336    8           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2022-11-30 07:29:22.461  local_svc   main   1336   1336    8                  fiber.scheduler - Spawning root fiber 10.
+   info 2022-11-30 07:29:22.778  local_svc   main   1336   1336    8                        handshake - Using protocol version 3.
+   info 2022-11-30 07:29:22.982  local_svc   main   1336   1336    8           anynet.relay_connector - Connection established.
+   info 2022-11-30 07:29:22.982  local_svc   main   1336   1336    8           anynet.relay_connector - Relay connector stopped.
+   info 2022-11-30 07:29:22.982  local_svc   main   1336   1336                       fiber.scheduler - Fiber 8 terminated.
+   info 2022-11-30 07:29:22.982  local_svc   main   1336   1336    3           anynet.main_relay_conn - Network ID: main
+   info 2022-11-30 07:29:22.982  local_svc   main   1336   1336    3                anynet.relay_conn - External address: 106.212.245.3:42292.
+   info 2022-11-30 07:29:22.982  local_svc   main   1336   1336    3           anynet.main_relay_conn - Main relay ID: 56b6dc2d
+   info 2022-11-30 07:29:22.982  local_svc   main   1336   1336    2            anynet.connection_mgr - Main relay connection established.
+   info 2022-11-30 07:29:22.982  local_svc   main   1336   1336    2            anynet.connection_mgr - New user data. Client-ID: 174795557.
+   info 2022-11-30 07:29:23.311  local_svc   main   1336   1336    1                    app.discovery - Starting.
+   info 2022-11-30 07:29:23.311  local_svc   main   1336   1336    1                  fiber.scheduler - Spawning root fiber 11.
+   info 2022-11-30 07:29:23.311  local_svc   main   1336   1336   11                    app.discovery - Current Discovery revision: 0
+   info 2022-11-30 07:29:23.312  local_svc   main   1336   1336   11                    app.discovery - Joined multicast group 239.255.102.18:50001.
+  error 2022-11-30 07:29:23.312  local_svc   main   1336   1336   11                anynet.udp_socket - bind failed (98, Address already in use)
+   info 2022-11-30 07:29:23.312  local_svc   main   1336   1336   11                    app.discovery - Bound to port: 50002
+   info 2022-11-30 07:29:23.312  local_svc   main   1336   1336   11                anynet.udp_socket - Multicast loop option set to 0
+   info 2022-11-30 07:29:23.323  local_svc   main   1336   1336   11                    app.discovery - Discovery fiber started.
+   info 2022-11-30 07:29:31.641  local_svc   main   1336   1336    1                      app.service - Initiating auto-shutdown.
+   info 2022-11-30 07:29:31.641  local_svc   main   1336   1336                       fiber.scheduler - Fiber 1 requested quit of fiber 6.
+   info 2022-11-30 07:29:31.641  local_svc   main   1336   1336                       fiber.scheduler - Fiber 6 terminated.
+   info 2022-11-30 07:29:31.641  local_svc   main   1336   1336                       fiber.scheduler - Fiber 1 requested quit of fiber 7.
+   info 2022-11-30 07:29:31.642  local_svc   main   1336   1336                       fiber.scheduler - Fiber 7 terminated.
+   info 2022-11-30 07:29:31.642  local_svc   main   1336   1336                       fiber.scheduler - Fiber 1 requested quit of fiber 5.
+   info 2022-11-30 07:29:31.642  local_svc   main   1336   1336    5                anynet.any_socket - Listen fiber stopped.
+   info 2022-11-30 07:29:31.642  local_svc   main   1336   1336                       fiber.scheduler - Fiber 5 terminated.
+   info 2022-11-30 07:29:31.642  local_svc   main   1336   1336    1            anynet.connection_mgr - Connection manager shutdown.
+   info 2022-11-30 07:29:31.642  local_svc   main   1336   1336                       fiber.scheduler - Fiber 1 requested quit of fiber 3.
+   info 2022-11-30 07:29:31.642  local_svc   main   1336   1336    3           anynet.main_relay_conn - Main relay connection closed.
+   info 2022-11-30 07:29:31.643  local_svc   main   1336   1336    3            anynet.connection_mgr - Forcing cleanup.
+   info 2022-11-30 07:29:31.643  local_svc   main   1336   1336                       fiber.scheduler - Fiber 3 requested quit of fiber 10.
+   info 2022-11-30 07:29:31.693  local_svc   main   1336   1336   10                      fiber.fiber - Received quit.
+   info 2022-11-30 07:29:31.693  local_svc   main   1336   1336                       fiber.scheduler - Fiber 10 terminated.
+   info 2022-11-30 07:29:31.693  local_svc   main   1336   1336    2            anynet.connection_mgr - Main relay connection failed (result_quit).
+   info 2022-11-30 07:29:31.693  local_svc   main   1336   1336                       fiber.scheduler - Fiber 3 requested quit of fiber 9.
+   info 2022-11-30 07:29:31.693  local_svc   main   1336   1336    9                      fiber.fiber - Received quit.
+   info 2022-11-30 07:29:31.693  local_svc   main   1336   1336                       fiber.scheduler - Fiber 9 terminated.
+   info 2022-11-30 07:29:31.694  local_svc   main   1336   1336                       fiber.scheduler - Fiber 3 terminated.
+   info 2022-11-30 07:29:31.694  local_svc   main   1336   1336                       fiber.scheduler - Fiber 1 requested quit of fiber 2.
+   info 2022-11-30 07:29:31.694  local_svc   main   1336   1336    2            anynet.connection_mgr - Connection manager fiber quit.
+   info 2022-11-30 07:29:31.694  local_svc   main   1336   1336                       fiber.scheduler - Fiber 2 terminated.
+   info 2022-11-30 07:29:31.694  local_svc   main   1336   1336                       fiber.scheduler - Fiber 1 requested quit of fiber 4.
+   info 2022-11-30 07:29:31.694  local_svc   main   1336   1336    4              anynet.tcp_acceptor - Received quit.
+   info 2022-12-02 10:33:43.395         ad   main   1359   1359                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-12-02 10:33:43.520         ad   main   1359   1359                                  main - * AnyDesk Linux Startup *
+   info 2022-12-02 10:33:43.520         ad   main   1359   1359                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-12-02 10:33:43.520         ad   main   1359   1359                                  main - * Build 20221102123558
+   info 2022-12-02 10:33:43.520         ad   main   1359   1359                                  main - * Prefix ad
+   info 2022-12-02 10:33:43.520         ad   main   1359   1359                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-12-02 10:33:43.521         ad   main   1359   1359                                  main - 
+   info 2022-12-02 10:33:43.521         ad   main   1359   1359                                  main - Distribution Info: Ubuntu 20.04 LTS
+   info 2022-12-02 10:33:43.521         ad   main   1359   1359                                  main - Found GLib Version: 2.64.
+warning 2022-12-02 10:33:43.545         ad   main   1359   1359                   fiber.ipc_namespace - Global namespace without service.
+warning 2022-12-02 10:33:43.545         ad   main   1359   1359                   fiber.ipc_namespace - Local namespace without service.
+   info 2022-12-02 10:33:43.546         ad   main   1359   1359                   fiber.ipc_namespace - Global: no
+   info 2022-12-02 10:33:43.546         ad   main   1359   1359                       app.common_path - user_data_dir = /root/.anydesk, logged_in_user_data_dir = /root/.anydesk, current_home = /root
+
+   info 2022-12-02 10:33:43.662         ad   main   1359   1359                       app.common_path - initialized user = /root/.anydesk, system = /root/.anydesk
+   info 2022-12-02 10:33:43.790         ad   main   1378   1378                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-12-02 10:33:43.790         ad   main   1378   1378                                  main - * AnyDesk Linux Startup *
+   info 2022-12-02 10:33:43.790         ad   main   1378   1378                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-12-02 10:33:43.790         ad   main   1378   1378                                  main - * Build 20221102123558
+   info 2022-12-02 10:33:43.790         ad   main   1378   1378                                  main - * Prefix ad
+   info 2022-12-02 10:33:43.790         ad   main   1378   1378                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-12-02 10:33:43.790         ad   main   1378   1378                                  main - 
+   info 2022-12-02 10:33:43.790         ad   main   1378   1378                                  main - Distribution Info: Ubuntu 20.04 LTS
+   info 2022-12-02 10:33:43.790         ad   main   1378   1378                                  main - Found GLib Version: 2.64.
+warning 2022-12-02 10:33:43.797         ad   main   1378   1378                   fiber.ipc_namespace - Global namespace without service.
+warning 2022-12-02 10:33:43.797         ad   main   1378   1378                   fiber.ipc_namespace - Local namespace without service.
+   info 2022-12-02 10:33:43.797         ad   main   1378   1378                   fiber.ipc_namespace - Global: no
+   info 2022-12-02 10:33:43.797         ad   main   1378   1378                       app.common_path - user_data_dir = /root/.anydesk, logged_in_user_data_dir = /root/.anydesk, current_home = /root
+
+   info 2022-12-02 10:33:43.798         ad   main   1378   1378                       app.common_path - initialized user = /root/.anydesk, system = /root/.anydesk
+   info 2022-12-02 10:33:43.798         ad   main   1378   1378                       app.common_path - user_data_dir = /root/.anydesk, logged_in_user_data_dir = /root/.anydesk, current_home = /root
+
+   info 2022-12-02 10:33:43.798         ad   main   1378   1378                       app.common_path - initialized user = /root/.anydesk, system = /root/.anydesk
+   info 2022-12-02 10:33:43.798  local_svc   main   1378   1378                                  main - Starting local service process (1378).
+   info 2022-12-02 10:33:44.083  local_svc   main   1378   1378                       fiber.scheduler - Spawning root fiber 1.
+   info 2022-12-02 10:33:44.083  local_svc   main   1378   1378                       fiber.scheduler - Scheduler started.
+   info 2022-12-02 10:33:44.085  local_svc   main   1378   1378    1                      app.service - Opening the IPC namespace.
+   info 2022-12-02 10:33:44.085  local_svc   main   1378   1378    1              fiber.ipc_namespace - Global: no
+   info 2022-12-02 10:33:44.085  local_svc   main   1378   1378    1                      app.service - Logging into the IPC namespace.
+   info 2022-12-02 10:33:44.087  local_svc   main   1378   1378    1                      app.service - Starting to supervise the IPC namespace.
+   info 2022-12-02 10:33:44.088  local_svc   main   1378   1378    1                      app.service - Starting the connector.
+explode 2022-12-02 10:33:44.266       tray   main   1359   1359                   unix_base.x11_tools - Cannot open display
+   info 2022-12-02 10:33:44.273  local_svc   main   1378   1378    1            anynet.connection_mgr - Importing certificate and key.
+   info 2022-12-02 10:33:44.284  local_svc   main   1378   1378    1            anynet.connection_mgr - 2 CA certificate(s) loaded.
+   info 2022-12-02 10:33:44.284  local_svc   main   1378   1378    1                  fiber.scheduler - Spawning root fiber 2.
+   info 2022-12-02 10:33:44.309  local_svc   main   1378   1378    1                  fiber.scheduler - Spawning root fiber 3.
+   info 2022-12-02 10:33:44.313  local_svc   main   1378   1378    1                  fiber.scheduler - Spawning root fiber 4.
+   info 2022-12-02 10:33:44.313  local_svc   main   1378   1378    1                      app.service - Setting up the listen sockets.
+   info 2022-12-02 10:33:44.340  local_svc   main   1378   1378    1                  fiber.scheduler - Spawning root fiber 5.
+   info 2022-12-02 10:33:44.340  local_svc   main   1378   1378    1                      app.service - Service startup completed.
+   info 2022-12-02 10:33:44.340  local_svc   main   1378   1378    1            app.discovery_manager - Updated Discovery settings: repeat interval (1000), repeat limit (10), buffer interval (5000), port range (3)
+   info 2022-12-02 10:33:44.340  local_svc   main   1378   1378    1            app.discovery_manager - Starting Discovery.
+   info 2022-12-02 10:33:44.342  local_svc   main   1378   1378    1                   ad.wol_service - Starting WOL service.
+   info 2022-12-02 10:33:44.342  local_svc   main   1378   1378    1                  fiber.scheduler - Spawning child fiber 6 (parent 1).
+   info 2022-12-02 10:33:44.353  local_svc   main   1378   1378    1                  fiber.scheduler - Spawning child fiber 7 (parent 1).
+   info 2022-12-02 10:33:44.353  local_svc   main   1378   1378    1                      app.service - Waiting for messages.
+   info 2022-12-02 10:33:44.353  local_svc   main   1378   1378    1                      app.service - Process start: 1359 (control:4294967295).
+   info 2022-12-02 10:33:44.354  local_svc   main   1378   1378    2            anynet.connection_mgr - Starting connection manager fiber.
+   info 2022-12-02 10:33:44.354  local_svc   main   1378   1378    3           anynet.main_relay_conn - Starting main relay connection.
+   info 2022-12-02 10:33:44.383  local_svc   main   1378   1378    3                  fiber.scheduler - Spawning child fiber 8 (parent 3).
+   info 2022-12-02 10:33:44.383  local_svc   main   1378   1378    4              anynet.tcp_acceptor - Listening on TCP port 7070.
+   info 2022-12-02 10:33:44.383  local_svc   main   1378   1378    5                anynet.any_socket - Listen fiber started.
+   info 2022-12-02 10:33:44.387  local_svc   main   1378   1378    8           anynet.relay_connector - Relay connector started.
+   info 2022-12-02 10:33:44.387  local_svc   main   1378   1378    8           anynet.relay_connector - Start proxy search.
+warning 2022-12-02 10:33:44.387  local_svc   main   1378   1378    8                base.proxy_finder - Invalid system proxy configuration.
+   info 2022-12-02 10:33:44.387  local_svc   main   1378   1378    8           anynet.relay_connector - Connecting to relay relay-56b6dc2d.net.anydesk.com (1/2)
+   info 2022-12-02 10:33:44.387  local_svc   main   1378   1378    8           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2022-12-02 10:33:44.387  local_svc   main   1378   1378    8           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2022-12-02 10:33:44.387  local_svc   main   1378   1378    8           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2022-12-02 10:33:44.399  local_svc   main   1378   1378    8           anynet.relay_connector - Using IPv4: 5.9.70.141
+   info 2022-12-02 10:33:44.562  local_svc   main   1378   1378    8                  fiber.scheduler - Spawning root fiber 9.
+   info 2022-12-02 10:33:45.027  local_svc   main   1378   1378    8           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2022-12-02 10:33:45.027  local_svc   main   1378   1378    8                  fiber.scheduler - Spawning root fiber 10.
+   info 2022-12-02 10:33:45.612  local_svc   main   1378   1378    8                        handshake - Using protocol version 3.
+   info 2022-12-02 10:33:45.820  local_svc   main   1378   1378    8           anynet.relay_connector - Connection established.
+   info 2022-12-02 10:33:45.820  local_svc   main   1378   1378    8           anynet.relay_connector - Relay connector stopped.
+   info 2022-12-02 10:33:45.820  local_svc   main   1378   1378                       fiber.scheduler - Fiber 8 terminated.
+   info 2022-12-02 10:33:45.821  local_svc   main   1378   1378    3           anynet.main_relay_conn - Network ID: main
+   info 2022-12-02 10:33:45.821  local_svc   main   1378   1378    3                anynet.relay_conn - External address: 106.212.245.3:49470.
+   info 2022-12-02 10:33:45.821  local_svc   main   1378   1378    3           anynet.main_relay_conn - Main relay ID: 56b6dc2d
+   info 2022-12-02 10:33:45.822  local_svc   main   1378   1378    2            anynet.connection_mgr - Main relay connection established.
+   info 2022-12-02 10:33:45.822  local_svc   main   1378   1378    2            anynet.connection_mgr - New user data. Client-ID: 174795557.
+   info 2022-12-02 10:33:46.075  local_svc   main   1378   1378    1                    app.discovery - Starting.
+   info 2022-12-02 10:33:46.075  local_svc   main   1378   1378    1                  fiber.scheduler - Spawning root fiber 11.
+   info 2022-12-02 10:33:46.075  local_svc   main   1378   1378   11                    app.discovery - Current Discovery revision: 0
+   info 2022-12-02 10:33:46.076  local_svc   main   1378   1378   11                    app.discovery - Joined multicast group 239.255.102.18:50001.
+  error 2022-12-02 10:33:46.076  local_svc   main   1378   1378   11                anynet.udp_socket - bind failed (98, Address already in use)
+   info 2022-12-02 10:33:46.076  local_svc   main   1378   1378   11                    app.discovery - Bound to port: 50002
+   info 2022-12-02 10:33:46.076  local_svc   main   1378   1378   11                anynet.udp_socket - Multicast loop option set to 0
+   info 2022-12-02 10:33:46.085  local_svc   main   1378   1378   11                    app.discovery - Discovery fiber started.
+warning 2022-12-02 10:33:46.089  local_svc   main   1378   1378                   fiber.ipc_namespace - Zombie process detected (1359). Fixing the state.
+   info 2022-12-02 10:33:48.091  local_svc   main   1378   1378    1                      app.service - Process stop: 1359.
+   info 2022-12-02 10:33:58.123  local_svc   main   1378   1378    1                      app.service - Initiating auto-shutdown.
+   info 2022-12-02 10:33:58.124  local_svc   main   1378   1378                       fiber.scheduler - Fiber 1 requested quit of fiber 6.
+   info 2022-12-02 10:33:58.124  local_svc   main   1378   1378                       fiber.scheduler - Fiber 6 terminated.
+   info 2022-12-02 10:33:58.124  local_svc   main   1378   1378                       fiber.scheduler - Fiber 1 requested quit of fiber 7.
+   info 2022-12-02 10:33:58.124  local_svc   main   1378   1378                       fiber.scheduler - Fiber 7 terminated.
+   info 2022-12-02 10:33:58.124  local_svc   main   1378   1378                       fiber.scheduler - Fiber 1 requested quit of fiber 5.
+   info 2022-12-02 10:33:58.124  local_svc   main   1378   1378    5                anynet.any_socket - Listen fiber stopped.
+   info 2022-12-02 10:33:58.124  local_svc   main   1378   1378                       fiber.scheduler - Fiber 5 terminated.
+   info 2022-12-02 10:33:58.124  local_svc   main   1378   1378    1            anynet.connection_mgr - Connection manager shutdown.
+   info 2022-12-02 10:33:58.125  local_svc   main   1378   1378                       fiber.scheduler - Fiber 1 requested quit of fiber 3.
+   info 2022-12-02 10:33:58.125  local_svc   main   1378   1378    3           anynet.main_relay_conn - Main relay connection closed.
+   info 2022-12-02 10:33:58.125  local_svc   main   1378   1378    3            anynet.connection_mgr - Forcing cleanup.
+   info 2022-12-02 10:33:58.125  local_svc   main   1378   1378                       fiber.scheduler - Fiber 3 requested quit of fiber 10.
+   info 2022-12-02 10:33:58.155  local_svc   main   1378   1378   10                      fiber.fiber - Received quit.
+   info 2022-12-02 10:33:58.155  local_svc   main   1378   1378                       fiber.scheduler - Fiber 10 terminated.
+   info 2022-12-02 10:33:58.156  local_svc   main   1378   1378    2            anynet.connection_mgr - Main relay connection failed (result_quit).
+   info 2022-12-02 10:33:58.156  local_svc   main   1378   1378                       fiber.scheduler - Fiber 3 requested quit of fiber 9.
+   info 2022-12-02 10:33:58.156  local_svc   main   1378   1378    9                      fiber.fiber - Received quit.
+   info 2022-12-02 10:33:58.156  local_svc   main   1378   1378                       fiber.scheduler - Fiber 9 terminated.
+   info 2022-12-02 10:33:58.156  local_svc   main   1378   1378                       fiber.scheduler - Fiber 3 terminated.
+   info 2022-12-02 10:33:58.156  local_svc   main   1378   1378                       fiber.scheduler - Fiber 1 requested quit of fiber 2.
+   info 2022-12-02 10:33:58.157  local_svc   main   1378   1378    2            anynet.connection_mgr - Connection manager fiber quit.
+   info 2022-12-02 10:33:58.157  local_svc   main   1378   1378                       fiber.scheduler - Fiber 2 terminated.
+   info 2022-12-02 10:33:58.157  local_svc   main   1378   1378                       fiber.scheduler - Fiber 1 requested quit of fiber 4.
+   info 2022-12-02 10:33:58.157  local_svc   main   1378   1378    4              anynet.tcp_acceptor - Received quit.
+   info 2022-12-05 13:33:42.455         ad   main   1319   1319                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-12-05 13:33:42.612         ad   main   1319   1319                                  main - * AnyDesk Linux Startup *
+   info 2022-12-05 13:33:42.612         ad   main   1319   1319                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-12-05 13:33:42.612         ad   main   1319   1319                                  main - * Build 20221102123558
+   info 2022-12-05 13:33:42.612         ad   main   1319   1319                                  main - * Prefix ad
+   info 2022-12-05 13:33:42.612         ad   main   1319   1319                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-12-05 13:33:42.612         ad   main   1319   1319                                  main - 
+   info 2022-12-05 13:33:42.612         ad   main   1319   1319                                  main - Distribution Info: Ubuntu 20.04 LTS
+   info 2022-12-05 13:33:42.612         ad   main   1319   1319                                  main - Found GLib Version: 2.64.
+warning 2022-12-05 13:33:42.635         ad   main   1319   1319                   fiber.ipc_namespace - Global namespace without service.
+warning 2022-12-05 13:33:42.636         ad   main   1319   1319                   fiber.ipc_namespace - Local namespace without service.
+   info 2022-12-05 13:33:42.636         ad   main   1319   1319                   fiber.ipc_namespace - Global: no
+   info 2022-12-05 13:33:42.636         ad   main   1319   1319                       app.common_path - user_data_dir = /root/.anydesk, logged_in_user_data_dir = /root/.anydesk, current_home = /root
+
+   info 2022-12-05 13:33:42.703         ad   main   1319   1319                       app.common_path - initialized user = /root/.anydesk, system = /root/.anydesk
+   info 2022-12-05 13:33:42.836         ad   main   1326   1326                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-12-05 13:33:42.836         ad   main   1326   1326                                  main - * AnyDesk Linux Startup *
+   info 2022-12-05 13:33:42.836         ad   main   1326   1326                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-12-05 13:33:42.836         ad   main   1326   1326                                  main - * Build 20221102123558
+   info 2022-12-05 13:33:42.836         ad   main   1326   1326                                  main - * Prefix ad
+   info 2022-12-05 13:33:42.836         ad   main   1326   1326                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-12-05 13:33:42.836         ad   main   1326   1326                                  main - 
+   info 2022-12-05 13:33:42.836         ad   main   1326   1326                                  main - Distribution Info: Ubuntu 20.04 LTS
+   info 2022-12-05 13:33:42.836         ad   main   1326   1326                                  main - Found GLib Version: 2.64.
+warning 2022-12-05 13:33:42.843         ad   main   1326   1326                   fiber.ipc_namespace - Global namespace without service.
+warning 2022-12-05 13:33:42.843         ad   main   1326   1326                   fiber.ipc_namespace - Local namespace without service.
+   info 2022-12-05 13:33:42.843         ad   main   1326   1326                   fiber.ipc_namespace - Global: no
+   info 2022-12-05 13:33:42.843         ad   main   1326   1326                       app.common_path - user_data_dir = /root/.anydesk, logged_in_user_data_dir = /root/.anydesk, current_home = /root
+
+   info 2022-12-05 13:33:42.843         ad   main   1326   1326                       app.common_path - initialized user = /root/.anydesk, system = /root/.anydesk
+   info 2022-12-05 13:33:42.843         ad   main   1326   1326                       app.common_path - user_data_dir = /root/.anydesk, logged_in_user_data_dir = /root/.anydesk, current_home = /root
+
+   info 2022-12-05 13:33:42.843         ad   main   1326   1326                       app.common_path - initialized user = /root/.anydesk, system = /root/.anydesk
+   info 2022-12-05 13:33:42.844  local_svc   main   1326   1326                                  main - Starting local service process (1326).
+   info 2022-12-05 13:33:43.182  local_svc   main   1326   1326                       fiber.scheduler - Spawning root fiber 1.
+   info 2022-12-05 13:33:43.182  local_svc   main   1326   1326                       fiber.scheduler - Scheduler started.
+   info 2022-12-05 13:33:43.191  local_svc   main   1326   1326    1                      app.service - Opening the IPC namespace.
+   info 2022-12-05 13:33:43.191  local_svc   main   1326   1326    1              fiber.ipc_namespace - Global: no
+   info 2022-12-05 13:33:43.191  local_svc   main   1326   1326    1                      app.service - Logging into the IPC namespace.
+   info 2022-12-05 13:33:43.193  local_svc   main   1326   1326    1                      app.service - Starting to supervise the IPC namespace.
+   info 2022-12-05 13:33:43.193  local_svc   main   1326   1326    1                      app.service - Starting the connector.
+explode 2022-12-05 13:33:43.307       tray   main   1319   1319                   unix_base.x11_tools - Cannot open display
+   info 2022-12-05 13:33:43.355  local_svc   main   1326   1326    1            anynet.connection_mgr - Importing certificate and key.
+   info 2022-12-05 13:33:43.491  local_svc   main   1326   1326    1            anynet.connection_mgr - 2 CA certificate(s) loaded.
+   info 2022-12-05 13:33:43.491  local_svc   main   1326   1326    1                  fiber.scheduler - Spawning root fiber 2.
+   info 2022-12-05 13:33:43.503  local_svc   main   1326   1326    1                  fiber.scheduler - Spawning root fiber 3.
+   info 2022-12-05 13:33:43.512  local_svc   main   1326   1326    1                  fiber.scheduler - Spawning root fiber 4.
+   info 2022-12-05 13:33:43.512  local_svc   main   1326   1326    1                      app.service - Setting up the listen sockets.
+   info 2022-12-05 13:33:43.539  local_svc   main   1326   1326    1                  fiber.scheduler - Spawning root fiber 5.
+   info 2022-12-05 13:33:43.539  local_svc   main   1326   1326    1                      app.service - Service startup completed.
+   info 2022-12-05 13:33:43.539  local_svc   main   1326   1326    1            app.discovery_manager - Updated Discovery settings: repeat interval (1000), repeat limit (10), buffer interval (5000), port range (3)
+   info 2022-12-05 13:33:43.539  local_svc   main   1326   1326    1            app.discovery_manager - Starting Discovery.
+   info 2022-12-05 13:33:43.541  local_svc   main   1326   1326    1                   ad.wol_service - Starting WOL service.
+   info 2022-12-05 13:33:43.541  local_svc   main   1326   1326    1                  fiber.scheduler - Spawning child fiber 6 (parent 1).
+   info 2022-12-05 13:33:43.569  local_svc   main   1326   1326    1                  fiber.scheduler - Spawning child fiber 7 (parent 1).
+   info 2022-12-05 13:33:43.569  local_svc   main   1326   1326    1                      app.service - Waiting for messages.
+   info 2022-12-05 13:33:43.569  local_svc   main   1326   1326    1                      app.service - Process start: 1319 (control:4294967295).
+   info 2022-12-05 13:33:43.569  local_svc   main   1326   1326    2            anynet.connection_mgr - Starting connection manager fiber.
+   info 2022-12-05 13:33:43.569  local_svc   main   1326   1326    3           anynet.main_relay_conn - Starting main relay connection.
+   info 2022-12-05 13:33:43.582  local_svc   main   1326   1326    3                  fiber.scheduler - Spawning child fiber 8 (parent 3).
+   info 2022-12-05 13:33:43.582  local_svc   main   1326   1326    4              anynet.tcp_acceptor - Listening on TCP port 7070.
+   info 2022-12-05 13:33:43.582  local_svc   main   1326   1326    5                anynet.any_socket - Listen fiber started.
+   info 2022-12-05 13:33:43.582  local_svc   main   1326   1326    6                      anynet.conn - Request before connect. Queueing.
+   info 2022-12-05 13:33:43.585  local_svc   main   1326   1326    8           anynet.relay_connector - Relay connector started.
+   info 2022-12-05 13:33:43.585  local_svc   main   1326   1326    8           anynet.relay_connector - Start proxy search.
+warning 2022-12-05 13:33:43.585  local_svc   main   1326   1326    8                base.proxy_finder - Invalid system proxy configuration.
+   info 2022-12-05 13:33:43.585  local_svc   main   1326   1326    8           anynet.relay_connector - Connecting to relay relay-56b6dc2d.net.anydesk.com (1/2)
+   info 2022-12-05 13:33:43.585  local_svc   main   1326   1326    8           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2022-12-05 13:33:43.585  local_svc   main   1326   1326    8           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2022-12-05 13:33:43.585  local_svc   main   1326   1326    8           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2022-12-05 13:33:43.597  local_svc   main   1326   1326    8           anynet.relay_connector - Using IPv4: 5.9.70.141
+   info 2022-12-05 13:33:43.762  local_svc   main   1326   1326    8                  fiber.scheduler - Spawning root fiber 9.
+   info 2022-12-05 13:33:44.248  local_svc   main   1326   1326    8           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2022-12-05 13:33:44.248  local_svc   main   1326   1326    8                  fiber.scheduler - Spawning root fiber 10.
+   info 2022-12-05 13:33:44.925  local_svc   main   1326   1326    8                        handshake - Using protocol version 3.
+   info 2022-12-05 13:33:45.157  local_svc   main   1326   1326    8           anynet.relay_connector - Connection established.
+   info 2022-12-05 13:33:45.157  local_svc   main   1326   1326    8           anynet.relay_connector - Relay connector stopped.
+   info 2022-12-05 13:33:45.157  local_svc   main   1326   1326                       fiber.scheduler - Fiber 8 terminated.
+   info 2022-12-05 13:33:45.158  local_svc   main   1326   1326    3           anynet.main_relay_conn - Network ID: main
+   info 2022-12-05 13:33:45.158  local_svc   main   1326   1326    3                anynet.relay_conn - External address: 106.212.245.3:54486.
+   info 2022-12-05 13:33:45.158  local_svc   main   1326   1326    3           anynet.main_relay_conn - Main relay ID: 56b6dc2d
+   info 2022-12-05 13:33:45.167  local_svc   main   1326   1326    2            anynet.connection_mgr - Main relay connection established.
+   info 2022-12-05 13:33:45.167  local_svc   main   1326   1326    2            anynet.connection_mgr - New user data. Client-ID: 174795557.
+warning 2022-12-05 13:33:45.195  local_svc   main   1326   1326                   fiber.ipc_namespace - Zombie process detected (1319). Fixing the state.
+   info 2022-12-05 13:33:47.198  local_svc   main   1326   1326    1                    app.discovery - Starting.
+   info 2022-12-05 13:33:47.199  local_svc   main   1326   1326    1                  fiber.scheduler - Spawning root fiber 11.
+   info 2022-12-05 13:33:47.199  local_svc   main   1326   1326    1                      app.service - Process stop: 1319.
+   info 2022-12-05 13:33:47.199  local_svc   main   1326   1326   11                    app.discovery - Current Discovery revision: 0
+   info 2022-12-05 13:33:47.200  local_svc   main   1326   1326   11                    app.discovery - Joined multicast group 239.255.102.18:50001.
+  error 2022-12-05 13:33:47.200  local_svc   main   1326   1326   11                anynet.udp_socket - bind failed (98, Address already in use)
+   info 2022-12-05 13:33:47.200  local_svc   main   1326   1326   11                    app.discovery - Bound to port: 50002
+   info 2022-12-05 13:33:47.200  local_svc   main   1326   1326   11                anynet.udp_socket - Multicast loop option set to 0
+   info 2022-12-05 13:33:47.216  local_svc   main   1326   1326   11                    app.discovery - Discovery fiber started.
+   info 2022-12-05 13:33:57.221  local_svc   main   1326   1326    1                      app.service - Initiating auto-shutdown.
+   info 2022-12-05 13:33:57.221  local_svc   main   1326   1326                       fiber.scheduler - Fiber 1 requested quit of fiber 6.
+   info 2022-12-05 13:33:57.221  local_svc   main   1326   1326                       fiber.scheduler - Fiber 6 terminated.
+   info 2022-12-05 13:33:57.221  local_svc   main   1326   1326                       fiber.scheduler - Fiber 1 requested quit of fiber 7.
+   info 2022-12-05 13:33:57.221  local_svc   main   1326   1326                       fiber.scheduler - Fiber 7 terminated.
+   info 2022-12-05 13:33:57.221  local_svc   main   1326   1326                       fiber.scheduler - Fiber 1 requested quit of fiber 5.
+   info 2022-12-05 13:33:57.221  local_svc   main   1326   1326    5                anynet.any_socket - Listen fiber stopped.
+   info 2022-12-05 13:33:57.221  local_svc   main   1326   1326                       fiber.scheduler - Fiber 5 terminated.
+   info 2022-12-05 13:33:57.221  local_svc   main   1326   1326    1            anynet.connection_mgr - Connection manager shutdown.
+   info 2022-12-05 13:33:57.222  local_svc   main   1326   1326                       fiber.scheduler - Fiber 1 requested quit of fiber 3.
+   info 2022-12-05 13:33:57.222  local_svc   main   1326   1326    3           anynet.main_relay_conn - Main relay connection closed.
+   info 2022-12-05 13:33:57.222  local_svc   main   1326   1326    3            anynet.connection_mgr - Forcing cleanup.
+   info 2022-12-05 13:33:57.222  local_svc   main   1326   1326                       fiber.scheduler - Fiber 3 requested quit of fiber 10.
+   info 2022-12-05 13:33:57.223  local_svc   main   1326   1326   10                      fiber.fiber - Received quit.
+   info 2022-12-05 13:33:57.223  local_svc   main   1326   1326                       fiber.scheduler - Fiber 10 terminated.
+   info 2022-12-05 13:33:57.223  local_svc   main   1326   1326    2            anynet.connection_mgr - Main relay connection failed (result_quit).
+   info 2022-12-05 13:33:57.223  local_svc   main   1326   1326                       fiber.scheduler - Fiber 3 requested quit of fiber 9.
+   info 2022-12-05 13:33:57.223  local_svc   main   1326   1326    9                      fiber.fiber - Received quit.
+   info 2022-12-05 13:33:57.223  local_svc   main   1326   1326                       fiber.scheduler - Fiber 9 terminated.
+   info 2022-12-05 13:33:57.223  local_svc   main   1326   1326                       fiber.scheduler - Fiber 3 terminated.
+   info 2022-12-05 13:33:57.224  local_svc   main   1326   1326                       fiber.scheduler - Fiber 1 requested quit of fiber 2.
+   info 2022-12-05 13:33:57.224  local_svc   main   1326   1326    2            anynet.connection_mgr - Connection manager fiber quit.
+   info 2022-12-05 13:33:57.224  local_svc   main   1326   1326                       fiber.scheduler - Fiber 2 terminated.
+   info 2022-12-05 13:33:57.224  local_svc   main   1326   1326                       fiber.scheduler - Fiber 1 requested quit of fiber 4.
+   info 2022-12-05 13:33:57.224  local_svc   main   1326   1326    4              anynet.tcp_acceptor - Received quit.
+   info 2022-12-05 13:41:37.671         ad   main   1333   1333                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-12-05 13:41:37.932         ad   main   1333   1333                                  main - * AnyDesk Linux Startup *
+   info 2022-12-05 13:41:37.932         ad   main   1333   1333                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-12-05 13:41:37.932         ad   main   1333   1333                                  main - * Build 20221102123558
+   info 2022-12-05 13:41:37.932         ad   main   1333   1333                                  main - * Prefix ad
+   info 2022-12-05 13:41:37.932         ad   main   1333   1333                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-12-05 13:41:37.932         ad   main   1333   1333                                  main - 
+   info 2022-12-05 13:41:37.933         ad   main   1333   1333                                  main - Distribution Info: Ubuntu 20.04 LTS
+   info 2022-12-05 13:41:37.933         ad   main   1333   1333                                  main - Found GLib Version: 2.64.
+warning 2022-12-05 13:41:38.061         ad   main   1333   1333                   fiber.ipc_namespace - Global namespace without service.
+warning 2022-12-05 13:41:38.061         ad   main   1333   1333                   fiber.ipc_namespace - Local namespace without service.
+   info 2022-12-05 13:41:38.061         ad   main   1333   1333                   fiber.ipc_namespace - Global: no
+   info 2022-12-05 13:41:38.062         ad   main   1333   1333                       app.common_path - user_data_dir = /var/lib/gdm3/.anydesk, logged_in_user_data_dir = /var/lib/gdm3/.anydesk, current_home = /var/lib/gdm3
+
+   info 2022-12-05 13:41:38.147         ad   main   1333   1333                       app.common_path - initialized user = /var/lib/gdm3/.anydesk, system = /var/lib/gdm3/.anydesk
+   info 2022-12-05 13:41:38.261         ad   main   1343   1343                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-12-05 13:41:38.261         ad   main   1343   1343                                  main - * AnyDesk Linux Startup *
+   info 2022-12-05 13:41:38.261         ad   main   1343   1343                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-12-05 13:41:38.261         ad   main   1343   1343                                  main - * Build 20221102123558
+   info 2022-12-05 13:41:38.261         ad   main   1343   1343                                  main - * Prefix ad
+   info 2022-12-05 13:41:38.261         ad   main   1343   1343                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-12-05 13:41:38.261         ad   main   1343   1343                                  main - 
+   info 2022-12-05 13:41:38.261         ad   main   1343   1343                                  main - Distribution Info: Ubuntu 20.04 LTS
+   info 2022-12-05 13:41:38.261         ad   main   1343   1343                                  main - Found GLib Version: 2.64.
+   info 2022-12-05 13:41:38.277         ad   main   1343   1343                       app.common_path - user_data_dir = /var/lib/gdm3/.anydesk, logged_in_user_data_dir = /var/lib/gdm3/.anydesk, current_home = /var/lib/gdm3
+
+   info 2022-12-05 13:41:38.277         ad   main   1343   1343                       app.common_path - initialized user = /var/lib/gdm3/.anydesk, system = /etc/anydesk
+   info 2022-12-05 13:41:38.283         ad   main   1343   1343             app.named_process_starter - Spawning new process with: UID: 125, DPY: , ID: c1, SEAT: 32984688
+warning 2022-12-05 13:41:38.285         ad   main   1348   1348             unix_base.x11.xauth_magic - XAUTHORITY is not set, trying the default location
+  error 2022-12-05 13:41:38.285         ad   main   1348   1348             unix_base.x11.xauth_magic - Cannot find Xauthority file despite all attempts, backend will probably fail
+   info 2022-12-05 13:41:38.288         ad   main   1343   1343                       app.common_path - user_data_dir = /var/lib/gdm3/.anydesk, logged_in_user_data_dir = /var/lib/gdm3/.anydesk, current_home = /var/lib/gdm3
+
+   info 2022-12-05 13:41:38.288         ad   main   1343   1343                       app.common_path - initialized user = /var/lib/gdm3/.anydesk, system = /etc/anydesk
+  error 2022-12-05 13:41:38.288         ad   main   1343   1343                                  main - Service is already running.
+   info 2022-12-05 13:41:38.288         ad   main   1343   1343                                  main - Exiting normally.
+explode 2022-12-05 13:41:40.097    control   main   1333   1333             app.named_process_starter - Unable to spawn service
+   info 2022-12-09 05:28:33.085         ad   main   1382   1382                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-12-09 05:28:33.110         ad   main   1382   1382                                  main - * AnyDesk Linux Startup *
+   info 2022-12-09 05:28:33.110         ad   main   1382   1382                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-12-09 05:28:33.110         ad   main   1382   1382                                  main - * Build 20221102123558
+   info 2022-12-09 05:28:33.110         ad   main   1382   1382                                  main - * Prefix ad
+   info 2022-12-09 05:28:33.110         ad   main   1382   1382                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-12-09 05:28:33.110         ad   main   1382   1382                                  main - 
+   info 2022-12-09 05:28:33.110         ad   main   1382   1382                                  main - Distribution Info: Ubuntu 20.04 LTS
+   info 2022-12-09 05:28:33.110         ad   main   1382   1382                                  main - Found GLib Version: 2.64.
+warning 2022-12-09 05:28:33.132         ad   main   1382   1382                   fiber.ipc_namespace - Global namespace without service.
+warning 2022-12-09 05:28:33.133         ad   main   1382   1382                   fiber.ipc_namespace - Local namespace without service.
+   info 2022-12-09 05:28:33.133         ad   main   1382   1382                   fiber.ipc_namespace - Global: no
+   info 2022-12-09 05:28:33.133         ad   main   1382   1382                       app.common_path - user_data_dir = /root/.anydesk, logged_in_user_data_dir = /root/.anydesk, current_home = /root
+
+   info 2022-12-09 05:28:33.191         ad   main   1382   1382                       app.common_path - initialized user = /root/.anydesk, system = /root/.anydesk
+   info 2022-12-09 05:28:33.317         ad   main   1385   1385                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-12-09 05:28:33.317         ad   main   1385   1385                                  main - * AnyDesk Linux Startup *
+   info 2022-12-09 05:28:33.317         ad   main   1385   1385                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-12-09 05:28:33.317         ad   main   1385   1385                                  main - * Build 20221102123558
+   info 2022-12-09 05:28:33.317         ad   main   1385   1385                                  main - * Prefix ad
+   info 2022-12-09 05:28:33.317         ad   main   1385   1385                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-12-09 05:28:33.317         ad   main   1385   1385                                  main - 
+   info 2022-12-09 05:28:33.317         ad   main   1385   1385                                  main - Distribution Info: Ubuntu 20.04 LTS
+   info 2022-12-09 05:28:33.318         ad   main   1385   1385                                  main - Found GLib Version: 2.64.
+warning 2022-12-09 05:28:33.344         ad   main   1385   1385                   fiber.ipc_namespace - Global namespace without service.
+warning 2022-12-09 05:28:33.344         ad   main   1385   1385                   fiber.ipc_namespace - Local namespace without service.
+   info 2022-12-09 05:28:33.344         ad   main   1385   1385                   fiber.ipc_namespace - Global: no
+   info 2022-12-09 05:28:33.346         ad   main   1385   1385                       app.common_path - user_data_dir = /var/lib/gdm3/.anydesk, logged_in_user_data_dir = /var/lib/gdm3/.anydesk, current_home = /var/lib/gdm3
+
+   info 2022-12-09 05:28:33.458         ad   main   1385   1385                       app.common_path - initialized user = /var/lib/gdm3/.anydesk, system = /var/lib/gdm3/.anydesk
+   info 2022-12-09 05:28:33.489         ad   main   1385   1385             app.named_process_starter - Spawning new process with: UID: 125, DPY: , ID: c1, SEAT: 52317376
+   info 2022-12-09 05:28:33.509         ad   main   1385   1385                       app.common_path - user_data_dir = /var/lib/gdm3/.anydesk, logged_in_user_data_dir = /var/lib/gdm3/.anydesk, current_home = /var/lib/gdm3
+
+   info 2022-12-09 05:28:33.509         ad   main   1385   1385                       app.common_path - initialized user = /var/lib/gdm3/.anydesk, system = /var/lib/gdm3/.anydesk
+   info 2022-12-09 05:28:33.509  local_svc   main   1385   1385                                  main - Starting local service process (1385).
+   info 2022-12-09 05:28:33.539  local_svc   main   1385   1385                       fiber.scheduler - Spawning root fiber 1.
+   info 2022-12-09 05:28:33.539  local_svc   main   1385   1385                       fiber.scheduler - Scheduler started.
+   info 2022-12-09 05:28:33.540  local_svc   main   1385   1385    1                      app.service - Opening the IPC namespace.
+   info 2022-12-09 05:28:33.540  local_svc   main   1385   1385    1              fiber.ipc_namespace - Global: no
+   info 2022-12-09 05:28:33.540  local_svc   main   1385   1385    1                      app.service - Logging into the IPC namespace.
+   info 2022-12-09 05:28:33.542  local_svc   main   1385   1385    1                      app.service - Starting to supervise the IPC namespace.
+   info 2022-12-09 05:28:33.542  local_svc   main   1385   1385    1                      app.service - Starting the connector.
+   info 2022-12-09 05:28:33.605         ad   main   1396   1396                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-12-09 05:28:33.605         ad   main   1396   1396                                  main - * AnyDesk Linux Startup *
+   info 2022-12-09 05:28:33.605         ad   main   1396   1396                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-12-09 05:28:33.605         ad   main   1396   1396                                  main - * Build 20221102123558
+   info 2022-12-09 05:28:33.605         ad   main   1396   1396                                  main - * Prefix ad
+   info 2022-12-09 05:28:33.605         ad   main   1396   1396                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-12-09 05:28:33.605         ad   main   1396   1396                                  main - 
+   info 2022-12-09 05:28:33.605         ad   main   1396   1396                                  main - Distribution Info: Ubuntu 20.04 LTS
+   info 2022-12-09 05:28:33.605         ad   main   1396   1396                                  main - Found GLib Version: 2.64.
+   info 2022-12-09 05:28:33.617         ad   main   1396   1396                       app.common_path - user_data_dir = /var/lib/gdm3/.anydesk, logged_in_user_data_dir = /var/lib/gdm3/.anydesk, current_home = /var/lib/gdm3
+
+   info 2022-12-09 05:28:33.617         ad   main   1396   1396                       app.common_path - initialized user = /var/lib/gdm3/.anydesk, system = /etc/anydesk
+explode 2022-12-09 05:28:33.695       tray   main   1396   1396                   unix_base.x11_tools - Cannot open display
+explode 2022-12-09 05:28:33.695       tray   main   1382   1382                   unix_base.x11_tools - Cannot open display
+   info 2022-12-09 05:28:33.866  local_svc   main   1385   1385    1            anynet.connection_mgr - Importing certificate and key.
+   info 2022-12-09 05:28:33.004  local_svc   main   1385   1385    1            anynet.connection_mgr - 2 CA certificate(s) loaded.
+   info 2022-12-09 05:28:33.004  local_svc   main   1385   1385    1                  fiber.scheduler - Spawning root fiber 2.
+   info 2022-12-09 05:28:34.127  local_svc   main   1385   1385    1                  fiber.scheduler - Spawning root fiber 3.
+   info 2022-12-09 05:28:34.167  local_svc   main   1385   1385    1                  fiber.scheduler - Spawning root fiber 4.
+   info 2022-12-09 05:28:34.167  local_svc   main   1385   1385    1                      app.service - Setting up the listen sockets.
+   info 2022-12-09 05:28:34.185  local_svc   main   1385   1385    1                  fiber.scheduler - Spawning root fiber 5.
+   info 2022-12-09 05:28:34.185  local_svc   main   1385   1385    1                      app.service - Service startup completed.
+   info 2022-12-09 05:28:34.185  local_svc   main   1385   1385    1            app.discovery_manager - Updated Discovery settings: repeat interval (1000), repeat limit (10), buffer interval (5000), port range (3)
+   info 2022-12-09 05:28:34.185  local_svc   main   1385   1385    1            app.discovery_manager - Starting Discovery.
+   info 2022-12-09 05:28:34.196  local_svc   main   1385   1385    1                   ad.wol_service - Starting WOL service.
+   info 2022-12-09 05:28:34.196  local_svc   main   1385   1385    1                  fiber.scheduler - Spawning child fiber 6 (parent 1).
+   info 2022-12-09 05:28:34.196  local_svc   main   1385   1385    1               statistics_service - cid changed - resetting consents for the system.
+   info 2022-12-09 05:28:34.549  local_svc   main   1385   1385    1                  fiber.scheduler - Spawning child fiber 7 (parent 1).
+   info 2022-12-09 05:28:34.549  local_svc   main   1385   1385    1                      app.service - Waiting for messages.
+   info 2022-12-09 05:28:34.549  local_svc   main   1385   1385    1                      app.service - Process start: 1382 (control:4294967295).
+   info 2022-12-09 05:28:34.549  local_svc   main   1385   1385    1                      app.service - Process start: 1396 (control:2389982853).
+   info 2022-12-09 05:28:34.550  local_svc   main   1385   1385    2            anynet.connection_mgr - Starting connection manager fiber.
+   info 2022-12-09 05:28:34.550  local_svc   main   1385   1385    3           anynet.main_relay_conn - Starting main relay connection.
+   info 2022-12-09 05:28:34.637  local_svc   main   1385   1385    3                  fiber.scheduler - Spawning child fiber 8 (parent 3).
+   info 2022-12-09 05:28:34.637  local_svc   main   1385   1385    4              anynet.tcp_acceptor - Listening on TCP port 7070.
+   info 2022-12-09 05:28:34.637  local_svc   main   1385   1385    5                anynet.any_socket - Listen fiber started.
+   info 2022-12-09 05:28:34.638  local_svc   main   1385   1385    6                      anynet.conn - Request before connect. Queueing.
+warning 2022-12-09 05:28:34.648  local_svc   main   1385   1385                   fiber.ipc_namespace - Zombie process detected (1382). Fixing the state.
+warning 2022-12-09 05:28:34.649  local_svc   main   1385   1385                   fiber.ipc_namespace - Zombie process detected (1396). Fixing the state.
+   info 2022-12-09 05:28:35.543  local_svc   main   1385   1385    1                      app.service - Process stop: 1382.
+   info 2022-12-09 05:28:35.543  local_svc   main   1385   1385    1                      app.service - Process stop: 1396.
+   info 2022-12-09 05:28:35.544  local_svc   main   1385   1385    8           anynet.relay_connector - Relay connector started.
+   info 2022-12-09 05:28:35.544  local_svc   main   1385   1385    8           anynet.relay_connector - Start proxy search.
+warning 2022-12-09 05:28:35.544  local_svc   main   1385   1385    8                base.proxy_finder - Invalid system proxy configuration.
+   info 2022-12-09 05:28:35.544  local_svc   main   1385   1385    8           anynet.relay_connector - Connecting to relay relay-1379aa09.net.anydesk.com (1/2)
+   info 2022-12-09 05:28:35.544  local_svc   main   1385   1385    8           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2022-12-09 05:28:35.544  local_svc   main   1385   1385    8           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2022-12-09 05:28:35.544  local_svc   main   1385   1385    8           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2022-12-09 05:28:35.565  local_svc   main   1385   1385    8           anynet.relay_connector - Using IPv4: 138.199.14.81
+   info 2022-12-09 05:28:35.703  local_svc   main   1385   1385    8                  fiber.scheduler - Spawning root fiber 9.
+   info 2022-12-09 05:28:36.177  local_svc   main   1385   1385    8           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2022-12-09 05:28:36.177  local_svc   main   1385   1385    8                  fiber.scheduler - Spawning root fiber 10.
+   info 2022-12-09 05:28:36.685  local_svc   main   1385   1385    8                        handshake - Using protocol version 3.
+   info 2022-12-09 05:28:36.876  local_svc   main   1385   1385                       fiber.scheduler - Fiber 8 requested quit of fiber 10.
+   info 2022-12-09 05:28:36.998  local_svc   main   1385   1385   10                      fiber.fiber - Received quit.
+   info 2022-12-09 05:28:36.998  local_svc   main   1385   1385                       fiber.scheduler - Fiber 10 terminated.
+   info 2022-12-09 05:28:36.998  local_svc   main   1385   1385                       fiber.scheduler - Fiber 8 requested quit of fiber 9.
+   info 2022-12-09 05:28:36.998  local_svc   main   1385   1385    9                      fiber.fiber - Received quit.
+   info 2022-12-09 05:28:36.998  local_svc   main   1385   1385                       fiber.scheduler - Fiber 9 terminated.
+   info 2022-12-09 05:28:36.998  local_svc   main   1385   1385    8           anynet.relay_connector - Connection terminated: anynet_relay_full
+   info 2022-12-09 05:28:36.998  local_svc   main   1385   1385    8           anynet.relay_connector - Received a new server list (10 servers)
+   info 2022-12-09 05:28:36.999  local_svc   main   1385   1385    8           anynet.relay_connector - Connecting to relay relay-d52ef708.net.anydesk.com (1/10)
+   info 2022-12-09 05:28:36.999  local_svc   main   1385   1385    8           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2022-12-09 05:28:36.999  local_svc   main   1385   1385    8           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2022-12-09 05:28:36.999  local_svc   main   1385   1385    8           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2022-12-09 05:28:37.023  local_svc   main   1385   1385    8           anynet.relay_connector - Using IPv4: 5.9.71.94
+   info 2022-12-09 05:28:37.178  local_svc   main   1385   1385    8                  fiber.scheduler - Spawning root fiber 11.
+   info 2022-12-09 05:28:37.496  local_svc   main   1385   1385    8           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2022-12-09 05:28:37.496  local_svc   main   1385   1385    8                  fiber.scheduler - Spawning root fiber 12.
+   info 2022-12-09 05:28:37.496  local_svc   main   1385   1385    8                        handshake - Using protocol version 3.
+   info 2022-12-09 05:28:37.744  local_svc   main   1385   1385    8           anynet.relay_connector - Connection established.
+   info 2022-12-09 05:28:37.744  local_svc   main   1385   1385    8           anynet.relay_connector - Relay connector stopped.
+   info 2022-12-09 05:28:37.744  local_svc   main   1385   1385                       fiber.scheduler - Fiber 8 terminated.
+   info 2022-12-09 05:28:37.746  local_svc   main   1385   1385    3           anynet.main_relay_conn - Network ID: main
+   info 2022-12-09 05:28:37.746  local_svc   main   1385   1385    3                anynet.relay_conn - External address: 223.230.5.227:58212.
+   info 2022-12-09 05:28:37.746  local_svc   main   1385   1385    3           anynet.main_relay_conn - Main relay ID: d52ef708
+   info 2022-12-09 05:28:37.747  local_svc   main   1385   1385    3           anynet.main_relay_conn - Detected 2 new networks.
+   info 2022-12-09 05:28:37.748  local_svc   main   1385   1385    2            anynet.connection_mgr - Main relay connection established.
+   info 2022-12-09 05:28:37.748  local_svc   main   1385   1385    2            anynet.connection_mgr - New user data. Client-ID: 459406716.
+   info 2022-12-09 05:28:37.949  local_svc   main   1385   1385    1                    app.discovery - Starting.
+   info 2022-12-09 05:28:37.949  local_svc   main   1385   1385    1                  fiber.scheduler - Spawning root fiber 13.
+   info 2022-12-09 05:28:37.949  local_svc   main   1385   1385   13                    app.discovery - Current Discovery revision: 0
+   info 2022-12-09 05:28:37.950  local_svc   main   1385   1385   13                    app.discovery - Joined multicast group 239.255.102.18:50001.
+  error 2022-12-09 05:28:37.950  local_svc   main   1385   1385   13                anynet.udp_socket - bind failed (98, Address already in use)
+   info 2022-12-09 05:28:37.950  local_svc   main   1385   1385   13                    app.discovery - Bound to port: 50002
+   info 2022-12-09 05:28:37.950  local_svc   main   1385   1385   13                anynet.udp_socket - Multicast loop option set to 0
+   info 2022-12-09 05:28:37.963  local_svc   main   1385   1385   13                    app.discovery - Discovery fiber started.
+   info 2022-12-09 05:28:45.552  local_svc   main   1385   1385    1                      app.service - Initiating auto-shutdown.
+   info 2022-12-09 05:28:45.552  local_svc   main   1385   1385                       fiber.scheduler - Fiber 1 requested quit of fiber 6.
+   info 2022-12-09 05:28:45.552  local_svc   main   1385   1385                       fiber.scheduler - Fiber 6 terminated.
+   info 2022-12-09 05:28:45.552  local_svc   main   1385   1385                       fiber.scheduler - Fiber 1 requested quit of fiber 7.
+   info 2022-12-09 05:28:45.552  local_svc   main   1385   1385                       fiber.scheduler - Fiber 7 terminated.
+   info 2022-12-09 05:28:45.552  local_svc   main   1385   1385                       fiber.scheduler - Fiber 1 requested quit of fiber 5.
+   info 2022-12-09 05:28:45.552  local_svc   main   1385   1385    5                anynet.any_socket - Listen fiber stopped.
+   info 2022-12-09 05:28:45.553  local_svc   main   1385   1385                       fiber.scheduler - Fiber 5 terminated.
+   info 2022-12-09 05:28:45.553  local_svc   main   1385   1385    1            anynet.connection_mgr - Connection manager shutdown.
+   info 2022-12-09 05:28:45.553  local_svc   main   1385   1385                       fiber.scheduler - Fiber 1 requested quit of fiber 3.
+   info 2022-12-09 05:28:45.553  local_svc   main   1385   1385    3           anynet.main_relay_conn - Main relay connection closed.
+   info 2022-12-09 05:28:45.554  local_svc   main   1385   1385    3            anynet.connection_mgr - Forcing cleanup.
+   info 2022-12-09 05:28:45.554  local_svc   main   1385   1385                       fiber.scheduler - Fiber 3 requested quit of fiber 12.
+   info 2022-12-09 05:28:45.554  local_svc   main   1385   1385   12                      fiber.fiber - Received quit.
+   info 2022-12-09 05:28:45.554  local_svc   main   1385   1385                       fiber.scheduler - Fiber 12 terminated.
+   info 2022-12-09 05:28:45.554  local_svc   main   1385   1385    2            anynet.connection_mgr - Main relay connection failed (result_quit).
+   info 2022-12-09 05:28:45.554  local_svc   main   1385   1385                       fiber.scheduler - Fiber 3 requested quit of fiber 11.
+   info 2022-12-09 05:28:45.554  local_svc   main   1385   1385   11                      fiber.fiber - Received quit.
+   info 2022-12-09 05:28:45.554  local_svc   main   1385   1385                       fiber.scheduler - Fiber 11 terminated.
+   info 2022-12-09 05:28:45.555  local_svc   main   1385   1385                       fiber.scheduler - Fiber 3 terminated.
+   info 2022-12-09 05:28:45.555  local_svc   main   1385   1385                       fiber.scheduler - Fiber 1 requested quit of fiber 2.
+   info 2022-12-09 05:28:45.555  local_svc   main   1385   1385    2            anynet.connection_mgr - Connection manager fiber quit.
+   info 2022-12-09 05:28:45.555  local_svc   main   1385   1385                       fiber.scheduler - Fiber 2 terminated.
+   info 2022-12-09 05:28:45.555  local_svc   main   1385   1385                       fiber.scheduler - Fiber 1 requested quit of fiber 4.
+   info 2022-12-09 05:28:45.555  local_svc   main   1385   1385    4              anynet.tcp_acceptor - Received quit.
+   info 2022-12-12 08:29:51.332         ad   main   1384   1384                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-12-12 08:29:51.537         ad   main   1384   1384                                  main - * AnyDesk Linux Startup *
+   info 2022-12-12 08:29:51.537         ad   main   1384   1384                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-12-12 08:29:51.537         ad   main   1384   1384                                  main - * Build 20221102123558
+   info 2022-12-12 08:29:51.537         ad   main   1384   1384                                  main - * Prefix ad
+   info 2022-12-12 08:29:51.537         ad   main   1384   1384                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-12-12 08:29:51.537         ad   main   1384   1384                                  main - 
+   info 2022-12-12 08:29:51.538         ad   main   1384   1384                                  main - Distribution Info: Ubuntu 20.04 LTS
+   info 2022-12-12 08:29:51.538         ad   main   1384   1384                                  main - Found GLib Version: 2.64.
+warning 2022-12-12 08:29:51.555         ad   main   1384   1384                   fiber.ipc_namespace - Global namespace without service.
+warning 2022-12-12 08:29:51.555         ad   main   1384   1384                   fiber.ipc_namespace - Local namespace without service.
+   info 2022-12-12 08:29:51.555         ad   main   1384   1384                   fiber.ipc_namespace - Global: no
+   info 2022-12-12 08:29:51.555         ad   main   1384   1384                       app.common_path - user_data_dir = /root/.anydesk, logged_in_user_data_dir = /root/.anydesk, current_home = /root
+
+   info 2022-12-12 08:29:51.628         ad   main   1384   1384                       app.common_path - initialized user = /root/.anydesk, system = /root/.anydesk
+   info 2022-12-12 08:29:51.757         ad   main   1391   1391                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-12-12 08:29:51.757         ad   main   1391   1391                                  main - * AnyDesk Linux Startup *
+   info 2022-12-12 08:29:51.757         ad   main   1391   1391                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-12-12 08:29:51.757         ad   main   1391   1391                                  main - * Build 20221102123558
+   info 2022-12-12 08:29:51.757         ad   main   1391   1391                                  main - * Prefix ad
+   info 2022-12-12 08:29:51.757         ad   main   1391   1391                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-12-12 08:29:51.757         ad   main   1391   1391                                  main - 
+   info 2022-12-12 08:29:51.757         ad   main   1391   1391                                  main - Distribution Info: Ubuntu 20.04 LTS
+   info 2022-12-12 08:29:51.757         ad   main   1391   1391                                  main - Found GLib Version: 2.64.
+warning 2022-12-12 08:29:51.763         ad   main   1391   1391                   fiber.ipc_namespace - Global namespace without service.
+warning 2022-12-12 08:29:51.764         ad   main   1391   1391                   fiber.ipc_namespace - Local namespace without service.
+   info 2022-12-12 08:29:51.764         ad   main   1391   1391                   fiber.ipc_namespace - Global: no
+   info 2022-12-12 08:29:51.764         ad   main   1391   1391                       app.common_path - user_data_dir = /root/.anydesk, logged_in_user_data_dir = /root/.anydesk, current_home = /root
+
+   info 2022-12-12 08:29:51.764         ad   main   1391   1391                       app.common_path - initialized user = /root/.anydesk, system = /root/.anydesk
+   info 2022-12-12 08:29:51.764         ad   main   1391   1391                       app.common_path - user_data_dir = /root/.anydesk, logged_in_user_data_dir = /root/.anydesk, current_home = /root
+
+   info 2022-12-12 08:29:51.765         ad   main   1391   1391                       app.common_path - initialized user = /root/.anydesk, system = /root/.anydesk
+   info 2022-12-12 08:29:51.765  local_svc   main   1391   1391                                  main - Starting local service process (1391).
+   info 2022-12-12 08:29:52.049  local_svc   main   1391   1391                       fiber.scheduler - Spawning root fiber 1.
+   info 2022-12-12 08:29:52.049  local_svc   main   1391   1391                       fiber.scheduler - Scheduler started.
+   info 2022-12-12 08:29:52.075  local_svc   main   1391   1391    1                      app.service - Opening the IPC namespace.
+   info 2022-12-12 08:29:52.076  local_svc   main   1391   1391    1              fiber.ipc_namespace - Global: no
+   info 2022-12-12 08:29:52.076  local_svc   main   1391   1391    1                      app.service - Logging into the IPC namespace.
+   info 2022-12-12 08:29:52.078  local_svc   main   1391   1391    1                      app.service - Starting to supervise the IPC namespace.
+   info 2022-12-12 08:29:52.078  local_svc   main   1391   1391    1                      app.service - Starting the connector.
+explode 2022-12-12 08:29:52.191       tray   main   1384   1384                   unix_base.x11_tools - Cannot open display
+   info 2022-12-12 08:29:52.487  local_svc   main   1391   1391    1            anynet.connection_mgr - Importing certificate and key.
+   info 2022-12-12 08:29:52.775  local_svc   main   1391   1391    1            anynet.connection_mgr - 2 CA certificate(s) loaded.
+   info 2022-12-12 08:29:52.775  local_svc   main   1391   1391    1                  fiber.scheduler - Spawning root fiber 2.
+   info 2022-12-12 08:29:52.929  local_svc   main   1391   1391    1                  fiber.scheduler - Spawning root fiber 3.
+   info 2022-12-12 08:29:52.996  local_svc   main   1391   1391    1                  fiber.scheduler - Spawning root fiber 4.
+   info 2022-12-12 08:29:52.996  local_svc   main   1391   1391    1                      app.service - Setting up the listen sockets.
+   info 2022-12-12 08:29:53.119  local_svc   main   1391   1391    1                  fiber.scheduler - Spawning root fiber 5.
+   info 2022-12-12 08:29:53.119  local_svc   main   1391   1391    1                      app.service - Service startup completed.
+   info 2022-12-12 08:29:53.119  local_svc   main   1391   1391    1            app.discovery_manager - Updated Discovery settings: repeat interval (1000), repeat limit (10), buffer interval (5000), port range (3)
+   info 2022-12-12 08:29:53.119  local_svc   main   1391   1391    1            app.discovery_manager - Starting Discovery.
+   info 2022-12-12 08:29:53.123  local_svc   main   1391   1391    1                   ad.wol_service - Starting WOL service.
+   info 2022-12-12 08:29:53.123  local_svc   main   1391   1391    1                  fiber.scheduler - Spawning child fiber 6 (parent 1).
+   info 2022-12-12 08:29:53.161  local_svc   main   1391   1391    1                  fiber.scheduler - Spawning child fiber 7 (parent 1).
+   info 2022-12-12 08:29:53.161  local_svc   main   1391   1391    1                      app.service - Waiting for messages.
+   info 2022-12-12 08:29:53.161  local_svc   main   1391   1391    1                      app.service - Process start: 1384 (control:4294967295).
+warning 2022-12-12 08:29:53.161  local_svc   main   1391   1391                   fiber.ipc_namespace - Zombie process detected (1384). Fixing the state.
+   info 2022-12-12 08:29:54.080  local_svc   main   1391   1391    1                      app.service - Process stop: 1384.
+   info 2022-12-12 08:29:54.080  local_svc   main   1391   1391    2            anynet.connection_mgr - Starting connection manager fiber.
+   info 2022-12-12 08:29:54.081  local_svc   main   1391   1391    3           anynet.main_relay_conn - Starting main relay connection.
+   info 2022-12-12 08:29:54.158  local_svc   main   1391   1391    3                  fiber.scheduler - Spawning child fiber 8 (parent 3).
+   info 2022-12-12 08:29:54.158  local_svc   main   1391   1391    4              anynet.tcp_acceptor - Listening on TCP port 7070.
+   info 2022-12-12 08:29:54.158  local_svc   main   1391   1391    5                anynet.any_socket - Listen fiber started.
+   info 2022-12-12 08:29:54.159  local_svc   main   1391   1391    6                      anynet.conn - Request before connect. Queueing.
+   info 2022-12-12 08:29:54.168  local_svc   main   1391   1391    8           anynet.relay_connector - Relay connector started.
+   info 2022-12-12 08:29:54.168  local_svc   main   1391   1391    8           anynet.relay_connector - Start proxy search.
+warning 2022-12-12 08:29:54.168  local_svc   main   1391   1391    8                base.proxy_finder - Invalid system proxy configuration.
+   info 2022-12-12 08:29:54.168  local_svc   main   1391   1391    8           anynet.relay_connector - Connecting to relay relay-56b6dc2d.net.anydesk.com (1/2)
+   info 2022-12-12 08:29:54.168  local_svc   main   1391   1391    8           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2022-12-12 08:29:54.168  local_svc   main   1391   1391    8           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2022-12-12 08:29:54.168  local_svc   main   1391   1391    8           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2022-12-12 08:29:54.188  local_svc   main   1391   1391    8           anynet.relay_connector - Using IPv4: 5.9.70.141
+   info 2022-12-12 08:29:54.373  local_svc   main   1391   1391    8                  fiber.scheduler - Spawning root fiber 9.
+   info 2022-12-12 08:29:55.034  local_svc   main   1391   1391    8           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2022-12-12 08:29:55.034  local_svc   main   1391   1391    8                  fiber.scheduler - Spawning root fiber 10.
+   info 2022-12-12 08:29:55.711  local_svc   main   1391   1391    8                        handshake - Using protocol version 3.
+   info 2022-12-12 08:29:56.018  local_svc   main   1391   1391    8           anynet.relay_connector - Connection established.
+   info 2022-12-12 08:29:56.018  local_svc   main   1391   1391    8           anynet.relay_connector - Relay connector stopped.
+   info 2022-12-12 08:29:56.018  local_svc   main   1391   1391                       fiber.scheduler - Fiber 8 terminated.
+   info 2022-12-12 08:29:56.018  local_svc   main   1391   1391    3           anynet.main_relay_conn - Network ID: main
+   info 2022-12-12 08:29:56.018  local_svc   main   1391   1391    3                anynet.relay_conn - External address: 223.230.5.227:39542.
+   info 2022-12-12 08:29:56.018  local_svc   main   1391   1391    3           anynet.main_relay_conn - Main relay ID: 56b6dc2d
+   info 2022-12-12 08:29:56.018  local_svc   main   1391   1391    3           anynet.main_relay_conn - Detected 2 new networks.
+   info 2022-12-12 08:29:56.118  local_svc   main   1391   1391    2            anynet.connection_mgr - Main relay connection established.
+   info 2022-12-12 08:29:56.118  local_svc   main   1391   1391    2            anynet.connection_mgr - New user data. Client-ID: 174795557.
+   info 2022-12-12 08:29:56.330  local_svc   main   1391   1391    1                    app.discovery - Starting.
+   info 2022-12-12 08:29:56.330  local_svc   main   1391   1391    1                  fiber.scheduler - Spawning root fiber 11.
+   info 2022-12-12 08:29:56.330  local_svc   main   1391   1391   11                    app.discovery - Current Discovery revision: 0
+   info 2022-12-12 08:29:56.331  local_svc   main   1391   1391   11                    app.discovery - Joined multicast group 239.255.102.18:50001.
+   info 2022-12-12 08:29:56.331  local_svc   main   1391   1391   11                    app.discovery - Bound to port: 50001
+   info 2022-12-12 08:29:56.331  local_svc   main   1391   1391   11                anynet.udp_socket - Multicast loop option set to 0
+   info 2022-12-12 08:29:56.347  local_svc   main   1391   1391   11                    app.discovery - Discovery fiber started.
+   info 2022-12-12 08:30:04.081  local_svc   main   1391   1391    1                      app.service - Initiating auto-shutdown.
+   info 2022-12-12 08:30:04.081  local_svc   main   1391   1391                       fiber.scheduler - Fiber 1 requested quit of fiber 6.
+   info 2022-12-12 08:30:04.081  local_svc   main   1391   1391                       fiber.scheduler - Fiber 6 terminated.
+   info 2022-12-12 08:30:04.081  local_svc   main   1391   1391                       fiber.scheduler - Fiber 1 requested quit of fiber 7.
+   info 2022-12-12 08:30:04.081  local_svc   main   1391   1391                       fiber.scheduler - Fiber 7 terminated.
+   info 2022-12-12 08:30:04.082  local_svc   main   1391   1391                       fiber.scheduler - Fiber 1 requested quit of fiber 5.
+   info 2022-12-12 08:30:04.082  local_svc   main   1391   1391    5                anynet.any_socket - Listen fiber stopped.
+   info 2022-12-12 08:30:04.082  local_svc   main   1391   1391                       fiber.scheduler - Fiber 5 terminated.
+   info 2022-12-12 08:30:04.082  local_svc   main   1391   1391    1            anynet.connection_mgr - Connection manager shutdown.
+   info 2022-12-12 08:30:04.082  local_svc   main   1391   1391                       fiber.scheduler - Fiber 1 requested quit of fiber 3.
+   info 2022-12-12 08:30:04.082  local_svc   main   1391   1391    3           anynet.main_relay_conn - Main relay connection closed.
+   info 2022-12-12 08:30:04.082  local_svc   main   1391   1391    3            anynet.connection_mgr - Forcing cleanup.
+   info 2022-12-12 08:30:04.082  local_svc   main   1391   1391                       fiber.scheduler - Fiber 3 requested quit of fiber 10.
+   info 2022-12-12 08:30:04.082  local_svc   main   1391   1391   10                      fiber.fiber - Received quit.
+   info 2022-12-12 08:30:04.082  local_svc   main   1391   1391                       fiber.scheduler - Fiber 10 terminated.
+   info 2022-12-12 08:30:04.082  local_svc   main   1391   1391    2            anynet.connection_mgr - Main relay connection failed (result_quit).
+   info 2022-12-12 08:30:04.082  local_svc   main   1391   1391                       fiber.scheduler - Fiber 3 requested quit of fiber 9.
+   info 2022-12-12 08:30:04.082  local_svc   main   1391   1391    9                      fiber.fiber - Received quit.
+   info 2022-12-12 08:30:04.082  local_svc   main   1391   1391                       fiber.scheduler - Fiber 9 terminated.
+   info 2022-12-12 08:30:04.082  local_svc   main   1391   1391                       fiber.scheduler - Fiber 3 terminated.
+   info 2022-12-12 08:30:04.082  local_svc   main   1391   1391                       fiber.scheduler - Fiber 1 requested quit of fiber 2.
+   info 2022-12-12 08:30:04.082  local_svc   main   1391   1391    2            anynet.connection_mgr - Connection manager fiber quit.
+   info 2022-12-12 08:30:04.082  local_svc   main   1391   1391                       fiber.scheduler - Fiber 2 terminated.
+   info 2022-12-12 08:30:04.082  local_svc   main   1391   1391                       fiber.scheduler - Fiber 1 requested quit of fiber 4.
+   info 2022-12-12 08:30:04.082  local_svc   main   1391   1391    4              anynet.tcp_acceptor - Received quit.
+   info 2022-12-26 12:39:04.417         ad   main   1297   1297                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-12-26 12:39:04.543         ad   main   1297   1297                                  main - * AnyDesk Linux Startup *
+   info 2022-12-26 12:39:04.543         ad   main   1297   1297                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-12-26 12:39:04.543         ad   main   1297   1297                                  main - * Build 20221102123558
+   info 2022-12-26 12:39:04.543         ad   main   1297   1297                                  main - * Prefix ad
+   info 2022-12-26 12:39:04.543         ad   main   1297   1297                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-12-26 12:39:04.543         ad   main   1297   1297                                  main - 
+   info 2022-12-26 12:39:04.543         ad   main   1297   1297                                  main - Distribution Info: Ubuntu 20.04.5 LTS
+   info 2022-12-26 12:39:04.544         ad   main   1297   1297                                  main - Found GLib Version: 2.64.
+warning 2022-12-26 12:39:04.569         ad   main   1297   1297                   fiber.ipc_namespace - Global namespace without service.
+warning 2022-12-26 12:39:04.570         ad   main   1297   1297                   fiber.ipc_namespace - Local namespace without service.
+   info 2022-12-26 12:39:04.570         ad   main   1297   1297                   fiber.ipc_namespace - Global: no
+   info 2022-12-26 12:39:04.570         ad   main   1297   1297                       app.common_path - user_data_dir = /root/.anydesk, logged_in_user_data_dir = /root/.anydesk, current_home = /root
+
+   info 2022-12-26 12:39:04.659         ad   main   1297   1297                       app.common_path - initialized user = /root/.anydesk, system = /root/.anydesk
+   info 2022-12-26 12:39:04.784         ad   main   1366   1366                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-12-26 12:39:04.784         ad   main   1366   1366                                  main - * AnyDesk Linux Startup *
+   info 2022-12-26 12:39:04.784         ad   main   1366   1366                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-12-26 12:39:04.784         ad   main   1366   1366                                  main - * Build 20221102123558
+   info 2022-12-26 12:39:04.784         ad   main   1366   1366                                  main - * Prefix ad
+   info 2022-12-26 12:39:04.784         ad   main   1366   1366                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-12-26 12:39:04.784         ad   main   1366   1366                                  main - 
+   info 2022-12-26 12:39:04.784         ad   main   1366   1366                                  main - Distribution Info: Ubuntu 20.04.5 LTS
+   info 2022-12-26 12:39:04.784         ad   main   1366   1366                                  main - Found GLib Version: 2.64.
+warning 2022-12-26 12:39:04.791         ad   main   1366   1366                   fiber.ipc_namespace - Global namespace without service.
+warning 2022-12-26 12:39:04.791         ad   main   1366   1366                   fiber.ipc_namespace - Local namespace without service.
+   info 2022-12-26 12:39:04.791         ad   main   1366   1366                   fiber.ipc_namespace - Global: no
+   info 2022-12-26 12:39:04.791         ad   main   1366   1366                       app.common_path - user_data_dir = /root/.anydesk, logged_in_user_data_dir = /root/.anydesk, current_home = /root
+
+   info 2022-12-26 12:39:04.791         ad   main   1366   1366                       app.common_path - initialized user = /root/.anydesk, system = /root/.anydesk
+   info 2022-12-26 12:39:04.792         ad   main   1366   1366                       app.common_path - user_data_dir = /root/.anydesk, logged_in_user_data_dir = /root/.anydesk, current_home = /root
+
+   info 2022-12-26 12:39:04.792         ad   main   1366   1366                       app.common_path - initialized user = /root/.anydesk, system = /root/.anydesk
+   info 2022-12-26 12:39:04.792  local_svc   main   1366   1366                                  main - Starting local service process (1366).
+   info 2022-12-26 12:39:05.055  local_svc   main   1366   1366                       fiber.scheduler - Spawning root fiber 1.
+   info 2022-12-26 12:39:05.055  local_svc   main   1366   1366                       fiber.scheduler - Scheduler started.
+   info 2022-12-26 12:39:05.080  local_svc   main   1366   1366    1                      app.service - Opening the IPC namespace.
+   info 2022-12-26 12:39:05.080  local_svc   main   1366   1366    1              fiber.ipc_namespace - Global: no
+   info 2022-12-26 12:39:05.081  local_svc   main   1366   1366    1                      app.service - Logging into the IPC namespace.
+   info 2022-12-26 12:39:05.082  local_svc   main   1366   1366    1                      app.service - Starting to supervise the IPC namespace.
+   info 2022-12-26 12:39:05.082  local_svc   main   1366   1366    1                      app.service - Starting the connector.
+   info 2022-12-26 12:39:05.136  local_svc   main   1366   1366    1            anynet.connection_mgr - Importing certificate and key.
+   info 2022-12-26 12:39:05.155  local_svc   main   1366   1366    1            anynet.connection_mgr - 2 CA certificate(s) loaded.
+   info 2022-12-26 12:39:05.155  local_svc   main   1366   1366    1                  fiber.scheduler - Spawning root fiber 2.
+   info 2022-12-26 12:39:05.159  local_svc   main   1366   1366    1                  fiber.scheduler - Spawning root fiber 3.
+   info 2022-12-26 12:39:05.168  local_svc   main   1366   1366    1                  fiber.scheduler - Spawning root fiber 4.
+   info 2022-12-26 12:39:05.168  local_svc   main   1366   1366    1                      app.service - Setting up the listen sockets.
+explode 2022-12-26 12:39:05.180       tray   main   1297   1297                   unix_base.x11_tools - Cannot open display
+   info 2022-12-26 12:39:05.195  local_svc   main   1366   1366    1                  fiber.scheduler - Spawning root fiber 5.
+   info 2022-12-26 12:39:05.195  local_svc   main   1366   1366    1                      app.service - Service startup completed.
+   info 2022-12-26 12:39:05.195  local_svc   main   1366   1366    1            app.discovery_manager - Updated Discovery settings: repeat interval (1000), repeat limit (10), buffer interval (5000), port range (3)
+   info 2022-12-26 12:39:05.195  local_svc   main   1366   1366    1            app.discovery_manager - Starting Discovery.
+   info 2022-12-26 12:39:05.197  local_svc   main   1366   1366    1                   ad.wol_service - Starting WOL service.
+   info 2022-12-26 12:39:05.197  local_svc   main   1366   1366    1                  fiber.scheduler - Spawning child fiber 6 (parent 1).
+   info 2022-12-26 12:39:05.200  local_svc   main   1366   1366    1                  fiber.scheduler - Spawning child fiber 7 (parent 1).
+   info 2022-12-26 12:39:05.200  local_svc   main   1366   1366    1                      app.service - Waiting for messages.
+   info 2022-12-26 12:39:05.200  local_svc   main   1366   1366    1                      app.service - Process start: 1297 (control:4294967295).
+   info 2022-12-26 12:39:05.200  local_svc   main   1366   1366    2            anynet.connection_mgr - Starting connection manager fiber.
+   info 2022-12-26 12:39:05.200  local_svc   main   1366   1366    3           anynet.main_relay_conn - Starting main relay connection.
+   info 2022-12-26 12:39:05.201  local_svc   main   1366   1366    3                  fiber.scheduler - Spawning child fiber 8 (parent 3).
+   info 2022-12-26 12:39:05.202  local_svc   main   1366   1366    4              anynet.tcp_acceptor - Listening on TCP port 7070.
+   info 2022-12-26 12:39:05.202  local_svc   main   1366   1366    5                anynet.any_socket - Listen fiber started.
+   info 2022-12-26 12:39:05.202  local_svc   main   1366   1366    6                      anynet.conn - Request before connect. Queueing.
+   info 2022-12-26 12:39:05.204  local_svc   main   1366   1366    8           anynet.relay_connector - Relay connector started.
+   info 2022-12-26 12:39:05.204  local_svc   main   1366   1366    8           anynet.relay_connector - Start proxy search.
+warning 2022-12-26 12:39:05.204  local_svc   main   1366   1366    8                base.proxy_finder - Invalid system proxy configuration.
+   info 2022-12-26 12:39:05.204  local_svc   main   1366   1366    8           anynet.relay_connector - Connecting to relay relay-56b6dc2d.net.anydesk.com (1/2)
+   info 2022-12-26 12:39:05.205  local_svc   main   1366   1366    8           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2022-12-26 12:39:05.205  local_svc   main   1366   1366    8           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2022-12-26 12:39:05.205  local_svc   main   1366   1366    8           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+  error 2022-12-26 12:39:05.208  local_svc    dns   1366   1370                   anynet.dns_resolver - DNS name "relay-56b6dc2d.net.anydesk.com" couldn't be resolved (4294967293).
+  error 2022-12-26 12:39:05.208  local_svc   main   1366   1366    8                anynet.udp_socket - send failed (101, Network is unreachable).
+  error 2022-12-26 12:39:05.208  local_svc   main   1366   1366    8              anynet.dns_resolver - Could not send packet.
+  error 2022-12-26 12:39:05.208  local_svc   main   1366   1366    8              anynet.dns_resolver - DNS name "relay-56b6dc2d.net.anydesk.com" couldn't be resolved (errno_4294967293, result_aborted).
+  error 2022-12-26 12:39:05.208  local_svc   main   1366   1366    8           anynet.relay_connector - Could not resolve DNS name relay-56b6dc2d.net.anydesk.com (anynet_no_dns_entry).
+  error 2022-12-26 12:39:05.209  local_svc   main   1366   1366    8           anynet.relay_connector - Connection failed (anynet_no_dns_entry)
+  error 2022-12-26 12:39:05.210  local_svc    dns   1366   1371                   anynet.dns_resolver - DNS name "relay-56b6dc2d.net.anydesk.com" couldn't be resolved (4294967293).
+  error 2022-12-26 12:39:05.210  local_svc   main   1366   1366    8                anynet.udp_socket - send failed (101, Network is unreachable).
+  error 2022-12-26 12:39:05.210  local_svc   main   1366   1366    8              anynet.dns_resolver - Could not send packet.
+  error 2022-12-26 12:39:05.210  local_svc   main   1366   1366    8              anynet.dns_resolver - DNS name "relay-56b6dc2d.net.anydesk.com" couldn't be resolved (errno_4294967293, result_aborted).
+  error 2022-12-26 12:39:05.210  local_svc   main   1366   1366    8           anynet.relay_connector - Could not resolve DNS name relay-56b6dc2d.net.anydesk.com (anynet_no_dns_entry).
+  error 2022-12-26 12:39:05.210  local_svc   main   1366   1366    8           anynet.relay_connector - Connection failed (anynet_no_dns_entry)
+  error 2022-12-26 12:39:05.211  local_svc    dns   1366   1372                   anynet.dns_resolver - DNS name "relay-56b6dc2d.net.anydesk.com" couldn't be resolved (4294967293).
+  error 2022-12-26 12:39:05.212  local_svc   main   1366   1366    8                anynet.udp_socket - send failed (101, Network is unreachable).
+  error 2022-12-26 12:39:05.212  local_svc   main   1366   1366    8              anynet.dns_resolver - Could not send packet.
+  error 2022-12-26 12:39:05.212  local_svc   main   1366   1366    8              anynet.dns_resolver - DNS name "relay-56b6dc2d.net.anydesk.com" couldn't be resolved (errno_4294967293, result_aborted).
+  error 2022-12-26 12:39:05.212  local_svc   main   1366   1366    8           anynet.relay_connector - Could not resolve DNS name relay-56b6dc2d.net.anydesk.com (anynet_no_dns_entry).
+  error 2022-12-26 12:39:05.212  local_svc   main   1366   1366    8           anynet.relay_connector - Connection failed (anynet_no_dns_entry)
+   info 2022-12-26 12:39:05.212  local_svc   main   1366   1366    8           anynet.relay_connector - Connecting to relay boot.net.anydesk.com (2/2)
+   info 2022-12-26 12:39:05.212  local_svc   main   1366   1366    8           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2022-12-26 12:39:05.212  local_svc   main   1366   1366    8           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2022-12-26 12:39:05.212  local_svc   main   1366   1366    8           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+  error 2022-12-26 12:39:05.213  local_svc    dns   1366   1373                   anynet.dns_resolver - DNS name "boot.net.anydesk.com" couldn't be resolved (4294967293).
+  error 2022-12-26 12:39:05.214  local_svc   main   1366   1366    8                anynet.udp_socket - send failed (101, Network is unreachable).
+  error 2022-12-26 12:39:05.214  local_svc   main   1366   1366    8              anynet.dns_resolver - Could not send packet.
+  error 2022-12-26 12:39:05.214  local_svc   main   1366   1366    8              anynet.dns_resolver - DNS name "boot.net.anydesk.com" couldn't be resolved (errno_4294967293, result_aborted).
+  error 2022-12-26 12:39:05.214  local_svc   main   1366   1366    8           anynet.relay_connector - Could not resolve DNS name boot.net.anydesk.com (anynet_no_dns_entry).
+  error 2022-12-26 12:39:05.214  local_svc   main   1366   1366    8           anynet.relay_connector - Connection failed (anynet_no_dns_entry)
+  error 2022-12-26 12:39:05.215  local_svc    dns   1366   1374                   anynet.dns_resolver - DNS name "boot.net.anydesk.com" couldn't be resolved (4294967293).
+  error 2022-12-26 12:39:05.215  local_svc   main   1366   1366    8                anynet.udp_socket - send failed (101, Network is unreachable).
+  error 2022-12-26 12:39:05.215  local_svc   main   1366   1366    8              anynet.dns_resolver - Could not send packet.
+  error 2022-12-26 12:39:05.215  local_svc   main   1366   1366    8              anynet.dns_resolver - DNS name "boot.net.anydesk.com" couldn't be resolved (errno_4294967293, result_aborted).
+  error 2022-12-26 12:39:05.215  local_svc   main   1366   1366    8           anynet.relay_connector - Could not resolve DNS name boot.net.anydesk.com (anynet_no_dns_entry).
+  error 2022-12-26 12:39:05.215  local_svc   main   1366   1366    8           anynet.relay_connector - Connection failed (anynet_no_dns_entry)
+  error 2022-12-26 12:39:05.217  local_svc    dns   1366   1375                   anynet.dns_resolver - DNS name "boot.net.anydesk.com" couldn't be resolved (4294967293).
+  error 2022-12-26 12:39:05.217  local_svc   main   1366   1366    8                anynet.udp_socket - send failed (101, Network is unreachable).
+  error 2022-12-26 12:39:05.217  local_svc   main   1366   1366    8              anynet.dns_resolver - Could not send packet.
+  error 2022-12-26 12:39:05.217  local_svc   main   1366   1366    8              anynet.dns_resolver - DNS name "boot.net.anydesk.com" couldn't be resolved (errno_4294967293, result_aborted).
+  error 2022-12-26 12:39:05.217  local_svc   main   1366   1366    8           anynet.relay_connector - Could not resolve DNS name boot.net.anydesk.com (anynet_no_dns_entry).
+  error 2022-12-26 12:39:05.217  local_svc   main   1366   1366    8           anynet.relay_connector - Connection failed (anynet_no_dns_entry)
+   info 2022-12-26 12:39:05.217  local_svc   main   1366   1366    8           anynet.relay_connector - Could not establish a connection. Switching to boot relays.
+   info 2022-12-26 12:39:05.217  local_svc   main   1366   1366    8           anynet.relay_connector - Waiting for 51398 msecs.
+warning 2022-12-26 12:39:07.084  local_svc   main   1366   1366                   fiber.ipc_namespace - Zombie process detected (1297). Fixing the state.
+   info 2022-12-26 12:39:09.087  local_svc   main   1366   1366    1                      app.service - Process stop: 1297.
+warning 2022-12-26 12:39:15.202  local_svc   main   1366   1366    6                      anynet.conn - Request timeout.
+  error 2022-12-26 12:39:15.242  local_svc   main   1366   1366    6                   ad.wol_service - Could not update WOL information about this machine. WOL might not work. (result_timeout)
+   info 2022-12-26 12:39:19.093  local_svc   main   1366   1366    1                      app.service - Initiating auto-shutdown.
+   info 2022-12-26 12:39:19.093  local_svc   main   1366   1366                       fiber.scheduler - Fiber 1 requested quit of fiber 6.
+   info 2022-12-26 12:39:19.093  local_svc   main   1366   1366                       fiber.scheduler - Fiber 6 terminated.
+   info 2022-12-26 12:39:19.093  local_svc   main   1366   1366                       fiber.scheduler - Fiber 1 requested quit of fiber 7.
+   info 2022-12-26 12:39:19.093  local_svc   main   1366   1366                       fiber.scheduler - Fiber 7 terminated.
+   info 2022-12-26 12:39:19.093  local_svc   main   1366   1366                       fiber.scheduler - Fiber 1 requested quit of fiber 5.
+   info 2022-12-26 12:39:19.093  local_svc   main   1366   1366    5                anynet.any_socket - Listen fiber stopped.
+   info 2022-12-26 12:39:19.093  local_svc   main   1366   1366                       fiber.scheduler - Fiber 5 terminated.
+   info 2022-12-26 12:39:19.093  local_svc   main   1366   1366    1            anynet.connection_mgr - Connection manager shutdown.
+   info 2022-12-26 12:39:19.093  local_svc   main   1366   1366                       fiber.scheduler - Fiber 1 requested quit of fiber 3.
+   info 2022-12-26 12:39:19.093  local_svc   main   1366   1366    3           anynet.main_relay_conn - Connect failed. Result: result_quit
+   info 2022-12-26 12:39:19.093  local_svc   main   1366   1366                       fiber.scheduler - Fiber 3 requested quit of fiber 8.
+   info 2022-12-26 12:39:19.235  local_svc   main   1366   1366    8                      fiber.fiber - Received quit.
+   info 2022-12-26 12:39:19.235  local_svc   main   1366   1366                       fiber.scheduler - Fiber 8 terminated.
+   info 2022-12-26 12:39:19.235  local_svc   main   1366   1366                       fiber.scheduler - Fiber 3 terminated.
+   info 2022-12-26 12:39:19.235  local_svc   main   1366   1366                       fiber.scheduler - Fiber 1 requested quit of fiber 2.
+   info 2022-12-26 12:39:19.235  local_svc   main   1366   1366    2            anynet.connection_mgr - Connection manager fiber quit.
+   info 2022-12-26 12:39:19.235  local_svc   main   1366   1366                       fiber.scheduler - Fiber 2 terminated.
+   info 2022-12-26 12:39:19.235  local_svc   main   1366   1366                       fiber.scheduler - Fiber 1 requested quit of fiber 4.
+   info 2022-12-26 12:39:19.235  local_svc   main   1366   1366    4              anynet.tcp_acceptor - Received quit.
+   info 2022-12-30 07:30:28.215         ad   main   1291   1291                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-12-30 07:30:28.310         ad   main   1291   1291                                  main - * AnyDesk Linux Startup *
+   info 2022-12-30 07:30:28.310         ad   main   1291   1291                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-12-30 07:30:28.310         ad   main   1291   1291                                  main - * Build 20221102123558
+   info 2022-12-30 07:30:28.310         ad   main   1291   1291                                  main - * Prefix ad
+   info 2022-12-30 07:30:28.310         ad   main   1291   1291                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-12-30 07:30:28.310         ad   main   1291   1291                                  main - 
+   info 2022-12-30 07:30:28.310         ad   main   1291   1291                                  main - Distribution Info: Ubuntu 20.04.5 LTS
+   info 2022-12-30 07:30:28.310         ad   main   1291   1291                                  main - Found GLib Version: 2.64.
+warning 2022-12-30 07:30:28.350         ad   main   1291   1291                   fiber.ipc_namespace - Global namespace without service.
+warning 2022-12-30 07:30:28.350         ad   main   1291   1291                   fiber.ipc_namespace - Local namespace without service.
+   info 2022-12-30 07:30:28.351         ad   main   1291   1291                   fiber.ipc_namespace - Global: no
+   info 2022-12-30 07:30:28.352         ad   main   1291   1291                       app.common_path - user_data_dir = /var/lib/gdm3/.anydesk, logged_in_user_data_dir = /var/lib/gdm3/.anydesk, current_home = /var/lib/gdm3
+
+   info 2022-12-30 07:30:28.649         ad   main   1291   1291                       app.common_path - initialized user = /var/lib/gdm3/.anydesk, system = /var/lib/gdm3/.anydesk
+   info 2022-12-30 07:30:28.779         ad   main   1424   1424                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-12-30 07:30:28.780         ad   main   1424   1424                                  main - * AnyDesk Linux Startup *
+   info 2022-12-30 07:30:28.780         ad   main   1424   1424                                  main - * Version 6.2.1 (linux_release_6.2.1 8fd1042907f5e11fc19f599b7cfce3fcc3e42363)
+   info 2022-12-30 07:30:28.780         ad   main   1424   1424                                  main - * Build 20221102123558
+   info 2022-12-30 07:30:28.780         ad   main   1424   1424                                  main - * Prefix ad
+   info 2022-12-30 07:30:28.780         ad   main   1424   1424                                  main - * Copyright (C) 2022 AnyDesk Software GmbH *
+   info 2022-12-30 07:30:28.780         ad   main   1424   1424                                  main - 
+   info 2022-12-30 07:30:28.780         ad   main   1424   1424                                  main - Distribution Info: Ubuntu 20.04.5 LTS
+   info 2022-12-30 07:30:28.780         ad   main   1424   1424                                  main - Found GLib Version: 2.64.
+warning 2022-12-30 07:30:28.795         ad   main   1424   1424                   fiber.ipc_namespace - Global namespace without service.
+warning 2022-12-30 07:30:28.795         ad   main   1424   1424                   fiber.ipc_namespace - Local namespace without service.
+   info 2022-12-30 07:30:28.795         ad   main   1424   1424                   fiber.ipc_namespace - Global: no
+   info 2022-12-30 07:30:28.797         ad   main   1424   1424                       app.common_path - user_data_dir = /var/lib/gdm3/.anydesk, logged_in_user_data_dir = /var/lib/gdm3/.anydesk, current_home = /var/lib/gdm3
+
+   info 2022-12-30 07:30:28.797         ad   main   1424   1424                       app.common_path - initialized user = /var/lib/gdm3/.anydesk, system = /var/lib/gdm3/.anydesk
+   info 2022-12-30 07:30:28.799         ad   main   1424   1424                       app.common_path - user_data_dir = /var/lib/gdm3/.anydesk, logged_in_user_data_dir = /var/lib/gdm3/.anydesk, current_home = /var/lib/gdm3
+
+   info 2022-12-30 07:30:28.799         ad   main   1424   1424                       app.common_path - initialized user = /var/lib/gdm3/.anydesk, system = /var/lib/gdm3/.anydesk
+   info 2022-12-30 07:30:28.799  local_svc   main   1424   1424                                  main - Starting local service process (1424).
+   info 2022-12-30 07:30:29.729  local_svc   main   1424   1424                       fiber.scheduler - Spawning root fiber 1.
+   info 2022-12-30 07:30:29.729  local_svc   main   1424   1424                       fiber.scheduler - Scheduler started.
+   info 2022-12-30 07:30:29.731  local_svc   main   1424   1424    1                      app.service - Opening the IPC namespace.
+   info 2022-12-30 07:30:29.731  local_svc   main   1424   1424    1              fiber.ipc_namespace - Global: no
+   info 2022-12-30 07:30:29.731  local_svc   main   1424   1424    1                      app.service - Logging into the IPC namespace.
+   info 2022-12-30 07:30:29.740  local_svc   main   1424   1424    1                      app.service - Starting to supervise the IPC namespace.
+   info 2022-12-30 07:30:29.740  local_svc   main   1424   1424    1                      app.service - Starting the connector.
+explode 2022-12-30 07:30:29.862       tray   main   1291   1291                   unix_base.x11_tools - Cannot open display
+   info 2022-12-30 07:30:29.887  local_svc   main   1424   1424    1            anynet.connection_mgr - Importing certificate and key.
+   info 2022-12-30 07:30:29.920  local_svc   main   1424   1424    1            anynet.connection_mgr - 2 CA certificate(s) loaded.
+   info 2022-12-30 07:30:29.921  local_svc   main   1424   1424    1                  fiber.scheduler - Spawning root fiber 2.
+   info 2022-12-30 07:30:30.308  local_svc   main   1424   1424    1                  fiber.scheduler - Spawning root fiber 3.
+   info 2022-12-30 07:30:30.317  local_svc   main   1424   1424    1                  fiber.scheduler - Spawning root fiber 4.
+   info 2022-12-30 07:30:30.317  local_svc   main   1424   1424    1                      app.service - Setting up the listen sockets.
+   info 2022-12-30 07:30:30.344  local_svc   main   1424   1424    1                  fiber.scheduler - Spawning root fiber 5.
+   info 2022-12-30 07:30:30.344  local_svc   main   1424   1424    1                      app.service - Service startup completed.
+   info 2022-12-30 07:30:30.344  local_svc   main   1424   1424    1            app.discovery_manager - Updated Discovery settings: repeat interval (1000), repeat limit (10), buffer interval (5000), port range (3)
+   info 2022-12-30 07:30:30.345  local_svc   main   1424   1424    1            app.discovery_manager - Starting Discovery.
+   info 2022-12-30 07:30:30.353  local_svc   main   1424   1424    1                   ad.wol_service - Starting WOL service.
+   info 2022-12-30 07:30:30.354  local_svc   main   1424   1424    1                  fiber.scheduler - Spawning child fiber 6 (parent 1).
+   info 2022-12-30 07:30:30.382  local_svc   main   1424   1424    1                  fiber.scheduler - Spawning child fiber 7 (parent 1).
+   info 2022-12-30 07:30:30.382  local_svc   main   1424   1424    1                      app.service - Waiting for messages.
+   info 2022-12-30 07:30:30.382  local_svc   main   1424   1424    1                      app.service - Process start: 1291 (control:2389982853).
+   info 2022-12-30 07:30:30.382  local_svc   main   1424   1424    2            anynet.connection_mgr - Starting connection manager fiber.
+   info 2022-12-30 07:30:30.382  local_svc   main   1424   1424    3           anynet.main_relay_conn - Starting main relay connection.
+   info 2022-12-30 07:30:30.386  local_svc   main   1424   1424    3                  fiber.scheduler - Spawning child fiber 8 (parent 3).
+   info 2022-12-30 07:30:30.386  local_svc   main   1424   1424    4              anynet.tcp_acceptor - Listening on TCP port 7070.
+   info 2022-12-30 07:30:30.386  local_svc   main   1424   1424    5                anynet.any_socket - Listen fiber started.
+   info 2022-12-30 07:30:30.386  local_svc   main   1424   1424    6                      anynet.conn - Request before connect. Queueing.
+   info 2022-12-30 07:30:30.390  local_svc   main   1424   1424    8           anynet.relay_connector - Relay connector started.
+   info 2022-12-30 07:30:30.390  local_svc   main   1424   1424    8           anynet.relay_connector - Start proxy search.
+warning 2022-12-30 07:30:30.390  local_svc   main   1424   1424    8                base.proxy_finder - Invalid system proxy configuration.
+   info 2022-12-30 07:30:30.390  local_svc   main   1424   1424    8           anynet.relay_connector - Connecting to relay relay-d52ef708.net.anydesk.com (1/2)
+   info 2022-12-30 07:30:30.390  local_svc   main   1424   1424    8           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2022-12-30 07:30:30.390  local_svc   main   1424   1424    8           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2022-12-30 07:30:30.390  local_svc   main   1424   1424    8           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+  error 2022-12-30 07:30:30.391  local_svc    dns   1424   1467                   anynet.dns_resolver - DNS name "relay-d52ef708.net.anydesk.com" couldn't be resolved (4294967293).
+  error 2022-12-30 07:30:30.391  local_svc   main   1424   1424    8                anynet.udp_socket - send failed (101, Network is unreachable).
+  error 2022-12-30 07:30:30.391  local_svc   main   1424   1424    8              anynet.dns_resolver - Could not send packet.
+  error 2022-12-30 07:30:30.391  local_svc   main   1424   1424    8              anynet.dns_resolver - DNS name "relay-d52ef708.net.anydesk.com" couldn't be resolved (errno_4294967293, result_aborted).
+  error 2022-12-30 07:30:30.391  local_svc   main   1424   1424    8           anynet.relay_connector - Could not resolve DNS name relay-d52ef708.net.anydesk.com (anynet_no_dns_entry).
+  error 2022-12-30 07:30:30.391  local_svc   main   1424   1424    8           anynet.relay_connector - Connection failed (anynet_no_dns_entry)
+  error 2022-12-30 07:30:30.391  local_svc    dns   1424   1469                   anynet.dns_resolver - DNS name "relay-d52ef708.net.anydesk.com" couldn't be resolved (4294967293).
+  error 2022-12-30 07:30:30.391  local_svc   main   1424   1424    8                anynet.udp_socket - send failed (101, Network is unreachable).
+  error 2022-12-30 07:30:30.392  local_svc   main   1424   1424    8              anynet.dns_resolver - Could not send packet.
+  error 2022-12-30 07:30:30.392  local_svc   main   1424   1424    8              anynet.dns_resolver - DNS name "relay-d52ef708.net.anydesk.com" couldn't be resolved (errno_4294967293, result_aborted).
+  error 2022-12-30 07:30:30.392  local_svc   main   1424   1424    8           anynet.relay_connector - Could not resolve DNS name relay-d52ef708.net.anydesk.com (anynet_no_dns_entry).
+  error 2022-12-30 07:30:30.392  local_svc   main   1424   1424    8           anynet.relay_connector - Connection failed (anynet_no_dns_entry)
+  error 2022-12-30 07:30:30.392  local_svc    dns   1424   1471                   anynet.dns_resolver - DNS name "relay-d52ef708.net.anydesk.com" couldn't be resolved (4294967293).
+  error 2022-12-30 07:30:30.392  local_svc   main   1424   1424    8                anynet.udp_socket - send failed (101, Network is unreachable).
+  error 2022-12-30 07:30:30.392  local_svc   main   1424   1424    8              anynet.dns_resolver - Could not send packet.
+  error 2022-12-30 07:30:30.392  local_svc   main   1424   1424    8              anynet.dns_resolver - DNS name "relay-d52ef708.net.anydesk.com" couldn't be resolved (errno_4294967293, result_aborted).
+  error 2022-12-30 07:30:30.392  local_svc   main   1424   1424    8           anynet.relay_connector - Could not resolve DNS name relay-d52ef708.net.anydesk.com (anynet_no_dns_entry).
+  error 2022-12-30 07:30:30.392  local_svc   main   1424   1424    8           anynet.relay_connector - Connection failed (anynet_no_dns_entry)
+   info 2022-12-30 07:30:30.392  local_svc   main   1424   1424    8           anynet.relay_connector - Connecting to relay boot.net.anydesk.com (2/2)
+   info 2022-12-30 07:30:30.392  local_svc   main   1424   1424    8           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2022-12-30 07:30:30.392  local_svc   main   1424   1424    8           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2022-12-30 07:30:30.392  local_svc   main   1424   1424    8           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+  error 2022-12-30 07:30:30.393  local_svc    dns   1424   1473                   anynet.dns_resolver - DNS name "boot.net.anydesk.com" couldn't be resolved (4294967293).
+  error 2022-12-30 07:30:30.393  local_svc   main   1424   1424    8                anynet.udp_socket - send failed (101, Network is unreachable).
+  error 2022-12-30 07:30:30.393  local_svc   main   1424   1424    8              anynet.dns_resolver - Could not send packet.
+  error 2022-12-30 07:30:30.393  local_svc   main   1424   1424    8              anynet.dns_resolver - DNS name "boot.net.anydesk.com" couldn't be resolved (errno_4294967293, result_aborted).
+  error 2022-12-30 07:30:30.393  local_svc   main   1424   1424    8           anynet.relay_connector - Could not resolve DNS name boot.net.anydesk.com (anynet_no_dns_entry).
+  error 2022-12-30 07:30:30.394  local_svc   main   1424   1424    8           anynet.relay_connector - Connection failed (anynet_no_dns_entry)
+  error 2022-12-30 07:30:30.394  local_svc    dns   1424   1476                   anynet.dns_resolver - DNS name "boot.net.anydesk.com" couldn't be resolved (4294967293).
+  error 2022-12-30 07:30:30.394  local_svc   main   1424   1424    8                anynet.udp_socket - send failed (101, Network is unreachable).
+  error 2022-12-30 07:30:30.394  local_svc   main   1424   1424    8              anynet.dns_resolver - Could not send packet.
+  error 2022-12-30 07:30:30.394  local_svc   main   1424   1424    8              anynet.dns_resolver - DNS name "boot.net.anydesk.com" couldn't be resolved (errno_4294967293, result_aborted).
+  error 2022-12-30 07:30:30.394  local_svc   main   1424   1424    8           anynet.relay_connector - Could not resolve DNS name boot.net.anydesk.com (anynet_no_dns_entry).
+  error 2022-12-30 07:30:30.394  local_svc   main   1424   1424    8           anynet.relay_connector - Connection failed (anynet_no_dns_entry)
+  error 2022-12-30 07:30:30.395  local_svc    dns   1424   1477                   anynet.dns_resolver - DNS name "boot.net.anydesk.com" couldn't be resolved (4294967293).
+  error 2022-12-30 07:30:30.395  local_svc   main   1424   1424    8                anynet.udp_socket - send failed (101, Network is unreachable).
+  error 2022-12-30 07:30:30.395  local_svc   main   1424   1424    8              anynet.dns_resolver - Could not send packet.
+  error 2022-12-30 07:30:30.395  local_svc   main   1424   1424    8              anynet.dns_resolver - DNS name "boot.net.anydesk.com" couldn't be resolved (errno_4294967293, result_aborted).
+  error 2022-12-30 07:30:30.395  local_svc   main   1424   1424    8           anynet.relay_connector - Could not resolve DNS name boot.net.anydesk.com (anynet_no_dns_entry).
+  error 2022-12-30 07:30:30.395  local_svc   main   1424   1424    8           anynet.relay_connector - Connection failed (anynet_no_dns_entry)
+   info 2022-12-30 07:30:30.395  local_svc   main   1424   1424    8           anynet.relay_connector - Could not establish a connection. Switching to boot relays.
+   info 2022-12-30 07:30:30.395  local_svc   main   1424   1424    8           anynet.relay_connector - Waiting for 51398 msecs.
+warning 2022-12-30 07:30:31.742  local_svc   main   1424   1424                   fiber.ipc_namespace - Zombie process detected (1291). Fixing the state.
+   info 2022-12-30 07:30:33.743  local_svc   main   1424   1424    1                      app.service - Process stop: 1291.
+warning 2022-12-30 07:30:40.387  local_svc   main   1424   1424    6                      anynet.conn - Request timeout.
+  error 2022-12-30 07:30:40.515  local_svc   main   1424   1424    6                   ad.wol_service - Could not update WOL information about this machine. WOL might not work. (result_timeout)
+   info 2022-12-30 07:30:43.754  local_svc   main   1424   1424    1                      app.service - Initiating auto-shutdown.
+   info 2022-12-30 07:30:43.754  local_svc   main   1424   1424                       fiber.scheduler - Fiber 1 requested quit of fiber 6.
+   info 2022-12-30 07:30:43.754  local_svc   main   1424   1424                       fiber.scheduler - Fiber 6 terminated.
+   info 2022-12-30 07:30:43.754  local_svc   main   1424   1424                       fiber.scheduler - Fiber 1 requested quit of fiber 7.
+   info 2022-12-30 07:30:43.754  local_svc   main   1424   1424                       fiber.scheduler - Fiber 7 terminated.
+   info 2022-12-30 07:30:43.755  local_svc   main   1424   1424                       fiber.scheduler - Fiber 1 requested quit of fiber 5.
+   info 2022-12-30 07:30:43.755  local_svc   main   1424   1424    5                anynet.any_socket - Listen fiber stopped.
+   info 2022-12-30 07:30:43.755  local_svc   main   1424   1424                       fiber.scheduler - Fiber 5 terminated.
+   info 2022-12-30 07:30:43.755  local_svc   main   1424   1424    1            anynet.connection_mgr - Connection manager shutdown.
+   info 2022-12-30 07:30:43.755  local_svc   main   1424   1424                       fiber.scheduler - Fiber 1 requested quit of fiber 3.
+   info 2022-12-30 07:30:43.755  local_svc   main   1424   1424    3           anynet.main_relay_conn - Connect failed. Result: result_quit
+   info 2022-12-30 07:30:43.755  local_svc   main   1424   1424                       fiber.scheduler - Fiber 3 requested quit of fiber 8.
+   info 2022-12-30 07:30:44.281  local_svc   main   1424   1424    8                      fiber.fiber - Received quit.
+   info 2022-12-30 07:30:44.281  local_svc   main   1424   1424                       fiber.scheduler - Fiber 8 terminated.
+   info 2022-12-30 07:30:44.281  local_svc   main   1424   1424                       fiber.scheduler - Fiber 3 terminated.
+   info 2022-12-30 07:30:44.281  local_svc   main   1424   1424                       fiber.scheduler - Fiber 1 requested quit of fiber 2.
+   info 2022-12-30 07:30:44.282  local_svc   main   1424   1424    2            anynet.connection_mgr - Connection manager fiber quit.
+   info 2022-12-30 07:30:44.282  local_svc   main   1424   1424                       fiber.scheduler - Fiber 2 terminated.
+   info 2022-12-30 07:30:44.282  local_svc   main   1424   1424                       fiber.scheduler - Fiber 1 requested quit of fiber 4.
+   info 2022-12-30 07:30:44.282  local_svc   main   1424   1424    4              anynet.tcp_acceptor - Received quit.

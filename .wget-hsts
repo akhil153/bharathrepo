@@ -1,0 +1,5 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+releases.jfrog.io	0	1	1669015237	15724800
+pkg.jenkins.io	0	0	1669700061	300
