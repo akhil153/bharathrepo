@@ -570,3 +570,278 @@ systemctl daemon-reload
 systemctl start kubelet
 systemctl enable kubelet.service
 sudo su -
+cd /etc/hosts
+cat /etc/hosts
+ssh 192.168.1.102
+clear
+ls
+git clone https://github.com/MithunTechnologiesDevOps/maven-web-application.git
+ls
+clear
+ls
+git init
+git add maven-web-application
+ls
+cd maven-web-application/
+ls
+cd ..
+clear
+ls
+git init
+git add maven-web-application
+ls
+git status
+git commit -m "first commit"
+ls
+git commit -m "first commit akhil"
+git config --global user.email "akhilreddy.eidiko@gmail.com"
+git config --global user.name "akhil"
+git commit -m "first commit akhil"
+git branch -M main
+git remote add origin https://github.com/akhil153/Devops.git
+git push -u origin main
+git push https://akhil153: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@github.com/akhil153/Devops.git main
+ls
+history
+pwd
+ls
+git --version
+cd /usr/bin/
+ls
+pwd
+clear
+cd
+clear
+ls
+git -versiom
+git -version
+git --version
+clear
+ls
+git init
+git add maven-web-application/
+git status
+ls
+mv apache-ant-1.9.16-bin.zip jfrog/ /tmp/
+ls
+mv snap/ /tmp/
+ls
+git init
+git add .
+git status
+git add maven-web-application/
+git status
+git commit -m "Add existing project files prior to the push to GitHub."
+clear
+cd
+mkdir akhi
+cd akhi/
+ls
+pwd
+ls -al
+git init
+ls -al
+git --version
+cd .git/
+ls
+cd ..
+ls
+vi abc.java
+ls
+git status
+vi xyz.java
+ls
+git status
+git add .
+git status
+vi pqr.sh
+git status
+git config --global --list
+git config --global --user.name "akhil153"
+git config --global --list
+clear
+git config --global user.name "akhil153"
+git config --global --list
+clear
+ls
+git status
+git commit -m "first commit"
+ls
+git ll
+git status
+clear
+git -ll
+git ll
+clear
+ls
+git status
+git add *
+git status
+git commit -m "added new file " 
+git status
+git remote -v
+git remote add amazon https://github.com/akhil-org-co/amazon.git
+git remote -v
+git push amazon master
+git push amazon main
+git push -u amazon master
+git remote add fb https://github.com/akhil-org-co/facebook.git
+git remote -v
+git push fb master
+git remote add origin https://github.com/akhil-org-co/facebook.git
+git push -u origin main
+git push -u origin master
+git remote add abc https://github.com/akhil153/samplerepo.git
+git remote -v
+git push abc master
+git push https://github.com/akhil153/samplerepo.git master
+git push https://github.com/akhil153/samplerepo.git main
+clear
+git push https://akhil153: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@github.com/akhil-org-co/facebook.git
+git push https://akhil153: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@github.com/akhil-org-co/amazon.git
+git push https://akhil153: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@github.com//akhil153/samplerepo.git
+git push https://akhil153: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@github.com/akhil153/samplerepo.git
+git remote -v
+git push https://akhil153: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@github.com/akhil153/akhilnewdevops.git
+ls
+vi pqr.sh 
+git status
+git commit -a -m " updated "
+git status
+git push https://akhil153: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@github.com/akhil153/akhilnewdevops.git
+git log
+ls
+vi c.sh
+git add .
+git commit -m " last commit "
+git status
+git log
+git log -1
+git log -2
+git show 1a0f05b1969f889
+ls
+cat c.sh 
+git log abc.java
+git log pqr.java
+ls
+git log pqr.sh
+ls
+vi pqr.sh 
+git status
+git add .
+git commit -m " latest commit" 
+git status
+git push https://akhil153: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@github.com/akhil153/akhilnewdevops.git
+git log
+gir revert 8ff095fee4106be3ab28b6558e362e010a964178 
+git revert 8ff095fee4106be3ab28b6558e362e010a964178 
+ls
+cat pqr.sh 
+ls
+git push https://akhil153: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@github.com/akhil153/akhilnewdevops.git
+clear
+git log
+git show --pretty="" --name-only 1b54d50142710cd8f1a3a4f2c38e45626419e0bd
+clear
+git ll
+clear
+git --version
+ls
+git status
+vi a.sh
+vi b.sh
+git status
+git clean -n 
+git clean -f
+ls
+clear
+git branch
+git branch development
+
+git checkout development
+git branch
+ls
+vi abc.java 
+git status
+git checkout master
+cat abc.java 
+git checkout development
+ls
+cat abc.java 
+git commit -a -m " latest commit "
+git status
+git branch
+git checkout master
+git branch
+git diff development
+git checkout development
+git diff master
+git branch
+git checkout master
+git merge development
+ls
+cat abc.java 
+clear
+git checkout -b akhil
+git branch
+git checkout master
+clear
+git tag
+git tag v1.0.0
+git tag
+git push https://akhil153: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@github.com/akhil153/akhilnewdevops.git tag v1.0.0
+git tag -d v1.0.0
+git tag
+clear
+ls
+ip a
+hostname -I
+ifconfig
+git status
+ls
+git stash
+clear
+git branch
+clear
+ip a
+clear
+cd /etc/hosts
+cat /etc/hosts
+clear
+ls
+ip link
+cd
+cd /etc/netplan/
+la
+cat 01-network-manager-all.yaml 
+ifconfig
+ip a
+ifconfig | grep -i mask
+clear
+cd
+clear
+ip a
+clear
+hostname -I
+clear
+mvn -version
+ls
+cd /opt/
+ls
+cd aaa/
+ls
+cd ..
+mvn --version
+clear
+ls
+cd /etc/
+ls
+cat os-release 
+clear
+cd /opt/
+ls
+clear
+ls
+ip a
+hostname -I
+clear

@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1672385335,,"wq!"
+|2,0,1672737503,,"wq!"
 :q!
 |2,0,1672131705,,"q!"
 
@@ -57,230 +57,294 @@
 |3,0,36,0,1,0,1672122041,"G"
 
 # File marks:
-'0  3  30  /etc/hosts
-|4,48,3,30,1672385335,"/etc/hosts"
-'1  17  23  /etc/resolv.conf
-|4,49,17,23,1672289644,"/etc/resolv.conf"
-'2  5  38  /opt/apache-ant-1.9.16/bin/build.xml
-|4,50,5,38,1672132321,"/opt/apache-ant-1.9.16/bin/build.xml"
-'3  5  38  /opt/apache-ant-1.9.16/bin/build.xml
-|4,51,5,38,1672132111,"/opt/apache-ant-1.9.16/bin/build.xml"
-'4  1  0  /opt/apache-ant-1.9.16/bin/build.xml
-|4,52,1,0,1672131705,"/opt/apache-ant-1.9.16/bin/build.xml"
-'5  1  0  /opt/apache-ant-1.9.16/bin/build.xml
-|4,53,1,0,1672131705,"/opt/apache-ant-1.9.16/bin/build.xml"
-'6  1  0  /opt/apache-ant-1.9.16/bin/build.xml
-|4,54,1,0,1672131705,"/opt/apache-ant-1.9.16/bin/build.xml"
-'7  1  0  /opt/apache-ant-1.9.16/bin/build.xml
-|4,55,1,0,1672131705,"/opt/apache-ant-1.9.16/bin/build.xml"
-'8  1  43  /opt/apache-ant-1.9.16/bin/build.xml
-|4,56,1,43,1672128416,"/opt/apache-ant-1.9.16/bin/build.xml"
-'9  5  43  /opt/apache-ant-1.9.16/bin/build.xml
-|4,57,5,43,1672128416,"/opt/apache-ant-1.9.16/bin/build.xml"
+'0  3  7  ~/maven-web-application/Dockerfile
+|4,48,3,7,1672737504,"~/maven-web-application/Dockerfile"
+'1  12  42  ~/.profile
+|4,49,12,42,1672737261,"~/.profile"
+'2  12  14  ~/.profile
+|4,50,12,14,1672737228,"~/.profile"
+'3  1  5  ~/akhi/sample.txt
+|4,51,1,5,1672736507,"~/akhi/sample.txt"
+'4  1  17  ~/akhi/abc.java
+|4,52,1,17,1672593534,"~/akhi/abc.java"
+'5  1  13  ~/akhi/b.sh
+|4,53,1,13,1672583748,"~/akhi/b.sh"
+'6  1  3  ~/akhi/a.sh
+|4,54,1,3,1672583737,"~/akhi/a.sh"
+'7  1  33  ~/akhi/pqr.sh
+|4,55,1,33,1672577971,"~/akhi/pqr.sh"
+'8  1  8  ~/akhi/c.sh
+|4,56,1,8,1672574184,"~/akhi/c.sh"
+'9  1  26  ~/akhi/pqr.sh
+|4,57,1,26,1672573511,"~/akhi/pqr.sh"
 
 # Jumplist (newest first):
--'  3  30  /etc/hosts
-|4,39,3,30,1672385335,"/etc/hosts"
--'  1  0  /etc/hosts
-|4,39,1,0,1672385151,"/etc/hosts"
--'  17  23  /etc/resolv.conf
-|4,39,17,23,1672289644,"/etc/resolv.conf"
--'  17  23  /etc/resolv.conf
-|4,39,17,23,1672289644,"/etc/resolv.conf"
--'  18  20  /etc/resolv.conf
-|4,39,18,20,1672289623,"/etc/resolv.conf"
--'  18  20  /etc/resolv.conf
-|4,39,18,20,1672289623,"/etc/resolv.conf"
--'  5  38  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,5,38,1672132321,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  5  38  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,5,38,1672132321,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  5  38  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,5,38,1672132321,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  5  38  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,5,38,1672132321,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  5  38  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,5,38,1672132111,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  5  38  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,5,38,1672132111,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  5  38  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,5,38,1672132111,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  5  38  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,5,38,1672132111,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  0  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,0,1672132047,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  0  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,0,1672132047,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  0  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,0,1672132047,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  0  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,0,1672132047,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  0  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,0,1672132047,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  0  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,0,1672132047,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  0  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,0,1672132047,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  0  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,0,1672132047,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  0  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,0,1672131705,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  0  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,0,1672131705,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  0  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,0,1672131705,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  0  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,0,1672131705,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  5  43  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,5,43,1672128416,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  5  43  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,5,43,1672128416,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  5  43  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,5,43,1672128416,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  5  43  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,5,43,1672128416,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  5  43  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,5,43,1672128375,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  5  43  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,5,43,1672128375,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  5  43  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,5,43,1672128375,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  5  43  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,5,43,1672128375,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  10  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,10,1672127958,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  10  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,10,1672127958,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  10  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,10,1672127958,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  10  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,10,1672127958,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  10  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,10,1672127958,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  10  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,10,1672127958,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  10  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,10,1672127958,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  10  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,10,1672127958,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  10  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,10,1672127945,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  10  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,10,1672127945,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  10  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,10,1672127945,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  1  10  /opt/apache-ant-1.9.16/bin/build.xml
-|4,39,1,10,1672127945,"/opt/apache-ant-1.9.16/bin/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
--'  7  0  /opt/build.xml
-|4,39,7,0,1672127632,"/opt/build.xml"
+-'  3  7  ~/maven-web-application/Dockerfile
+|4,39,3,7,1672737504,"~/maven-web-application/Dockerfile"
+-'  1  0  ~/maven-web-application/Dockerfile
+|4,39,1,0,1672737481,"~/maven-web-application/Dockerfile"
+-'  12  42  ~/.profile
+|4,39,12,42,1672737261,"~/.profile"
+-'  12  42  ~/.profile
+|4,39,12,42,1672737261,"~/.profile"
+-'  12  14  ~/.profile
+|4,39,12,14,1672737228,"~/.profile"
+-'  12  14  ~/.profile
+|4,39,12,14,1672737228,"~/.profile"
+-'  9  0  ~/.profile
+|4,39,9,0,1672737150,"~/.profile"
+-'  9  0  ~/.profile
+|4,39,9,0,1672737150,"~/.profile"
+-'  9  0  ~/.profile
+|4,39,9,0,1672737150,"~/.profile"
+-'  9  0  ~/.profile
+|4,39,9,0,1672737150,"~/.profile"
+-'  1  5  ~/akhi/sample.txt
+|4,39,1,5,1672736507,"~/akhi/sample.txt"
+-'  1  5  ~/akhi/sample.txt
+|4,39,1,5,1672736507,"~/akhi/sample.txt"
+-'  1  5  ~/akhi/sample.txt
+|4,39,1,5,1672736507,"~/akhi/sample.txt"
+-'  1  5  ~/akhi/sample.txt
+|4,39,1,5,1672736507,"~/akhi/sample.txt"
+-'  1  5  ~/akhi/sample.txt
+|4,39,1,5,1672736507,"~/akhi/sample.txt"
+-'  1  5  ~/akhi/sample.txt
+|4,39,1,5,1672736507,"~/akhi/sample.txt"
+-'  1  5  ~/akhi/sample.txt
+|4,39,1,5,1672736507,"~/akhi/sample.txt"
+-'  1  5  ~/akhi/sample.txt
+|4,39,1,5,1672736507,"~/akhi/sample.txt"
+-'  1  17  ~/akhi/abc.java
+|4,39,1,17,1672593534,"~/akhi/abc.java"
+-'  1  17  ~/akhi/abc.java
+|4,39,1,17,1672593534,"~/akhi/abc.java"
+-'  1  17  ~/akhi/abc.java
+|4,39,1,17,1672593534,"~/akhi/abc.java"
+-'  1  17  ~/akhi/abc.java
+|4,39,1,17,1672593534,"~/akhi/abc.java"
+-'  1  17  ~/akhi/abc.java
+|4,39,1,17,1672593534,"~/akhi/abc.java"
+-'  1  17  ~/akhi/abc.java
+|4,39,1,17,1672593534,"~/akhi/abc.java"
+-'  1  17  ~/akhi/abc.java
+|4,39,1,17,1672593534,"~/akhi/abc.java"
+-'  1  17  ~/akhi/abc.java
+|4,39,1,17,1672593534,"~/akhi/abc.java"
+-'  1  17  ~/akhi/abc.java
+|4,39,1,17,1672593534,"~/akhi/abc.java"
+-'  1  17  ~/akhi/abc.java
+|4,39,1,17,1672593534,"~/akhi/abc.java"
+-'  1  17  ~/akhi/abc.java
+|4,39,1,17,1672593534,"~/akhi/abc.java"
+-'  1  17  ~/akhi/abc.java
+|4,39,1,17,1672593534,"~/akhi/abc.java"
+-'  1  17  ~/akhi/abc.java
+|4,39,1,17,1672593534,"~/akhi/abc.java"
+-'  1  17  ~/akhi/abc.java
+|4,39,1,17,1672593534,"~/akhi/abc.java"
+-'  1  17  ~/akhi/abc.java
+|4,39,1,17,1672593534,"~/akhi/abc.java"
+-'  1  17  ~/akhi/abc.java
+|4,39,1,17,1672593534,"~/akhi/abc.java"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  13  ~/akhi/b.sh
+|4,39,1,13,1672583748,"~/akhi/b.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
+-'  1  3  ~/akhi/a.sh
+|4,39,1,3,1672583737,"~/akhi/a.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/maven-web-application/Dockerfile
+	*	1672737501	0
+	"	3	7
+	^	3	8
+	.	3	7
+	+	3	7
+
+> ~/.profile
+	*	1672737257	0
+	"	12	42
+	^	12	43
+	.	12	42
+	+	13	29
+	+	12	42
+
+> ~/akhi/sample.txt
+	*	1672736505	0
+	"	1	5
+	^	1	6
+	.	1	5
+	+	1	5
+
+> ~/akhi/abc.java
+	*	1672593532	0
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17
+
+> ~/akhi/b.sh
+	*	1672583746	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/akhi/a.sh
+	*	1672583734	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/akhi/pqr.sh
+	*	1672577968	0
+	"	1	33
+	^	1	34
+	.	1	33
+	+	1	33
+
+> ~/akhi/c.sh
+	*	1672574180	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
+
+> ~/akhi/xyz.java
+	*	1672566340	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
 
 > /etc/hosts
 	*	1672385332	0
@@ -321,10 +385,6 @@
 	^	31	35
 	.	31	34
 	+	31	34
-
-> ~/.profile
-	*	1672125332	0
-	"	9	0
 
 > /etc/systemd/system/kubelet.service.d/10-kubeadm.conf
 	*	1672122044	0
